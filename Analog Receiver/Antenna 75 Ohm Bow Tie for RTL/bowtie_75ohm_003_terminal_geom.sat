@@ -1,0 +1,3210 @@
+500 0 32 0           
+7 Spatial 14 ACIS 23.0.2 NT 24 Sat Oct 10 22:11:18 2015 
+1 9.9999999999999995e-007 1e-010 
+body $32 $33 $-1 $34 #
+body $35 $36 $-1 $-1 #
+body $37 $38 $-1 $-1 #
+body $39 $40 $-1 $41 #
+body $42 $43 $-1 $44 #
+body $45 $46 $-1 $47 #
+body $48 $49 $-1 $50 #
+body $51 $52 $-1 $53 #
+body $54 $55 $-1 $56 #
+body $57 $58 $-1 $59 #
+body $60 $61 $-1 $62 #
+body $63 $64 $-1 $65 #
+body $66 $67 $-1 $68 #
+body $69 $70 $-1 $71 #
+body $72 $73 $-1 $74 #
+body $75 $76 $-1 $77 #
+body $78 $79 $-1 $80 #
+body $81 $82 $-1 $83 #
+body $84 $85 $-1 $86 #
+body $87 $88 $-1 $89 #
+body $90 $91 $-1 $92 #
+body $93 $94 $-1 $95 #
+body $96 $97 $-1 $98 #
+body $99 $100 $-1 $101 #
+body $102 $103 $-1 $104 #
+body $105 $106 $-1 $107 #
+body $108 $109 $-1 $110 #
+body $111 $112 $-1 $113 #
+body $114 $115 $-1 $116 #
+body $117 $118 $-1 $119 #
+body $120 $121 $-1 $122 #
+body $123 $124 $-1 $125 #
+string_attrib-name_attrib-gen-attrib $-1 $126 $-1 $0 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 3 sub #
+lump $-1 $-1 $127 $0 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $128 $-1 $1 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 3 Arm #
+lump $-1 $-1 $129 $1 #
+string_attrib-name_attrib-gen-attrib $-1 $130 $-1 $2 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 5 Arm_1 #
+lump $-1 $-1 $131 $2 #
+string_attrib-name_attrib-gen-attrib $-1 $132 $-1 $3 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 5 port1 #
+lump $-1 $-1 $133 $3 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $134 $-1 $4 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 6 AirBox #
+lump $-1 $-1 $135 $4 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $136 $-1 $5 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 16 VirtualRadiation #
+lump $-1 $-1 $137 $5 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $138 $-1 $6 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_1 #
+lump $-1 $-1 $139 $6 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $140 $-1 $7 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_2 #
+lump $-1 $-1 $141 $7 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $142 $-1 $8 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_3 #
+lump $-1 $-1 $143 $8 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $144 $-1 $9 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_4 #
+lump $-1 $-1 $145 $9 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $146 $-1 $10 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_5 #
+lump $-1 $-1 $147 $10 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $148 $-1 $11 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_6 #
+lump $-1 $-1 $149 $11 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $150 $-1 $12 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_7 #
+lump $-1 $-1 $151 $12 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $152 $-1 $13 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_8 #
+lump $-1 $-1 $153 $13 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $154 $-1 $14 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 12 PML_AirBox_9 #
+lump $-1 $-1 $155 $14 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $156 $-1 $15 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_10 #
+lump $-1 $-1 $157 $15 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $158 $-1 $16 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_11 #
+lump $-1 $-1 $159 $16 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $160 $-1 $17 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_12 #
+lump $-1 $-1 $161 $17 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $162 $-1 $18 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_13 #
+lump $-1 $-1 $163 $18 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $164 $-1 $19 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_14 #
+lump $-1 $-1 $165 $19 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $166 $-1 $20 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_15 #
+lump $-1 $-1 $167 $20 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $168 $-1 $21 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_16 #
+lump $-1 $-1 $169 $21 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $170 $-1 $22 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_17 #
+lump $-1 $-1 $171 $22 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $172 $-1 $23 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_18 #
+lump $-1 $-1 $173 $23 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $174 $-1 $24 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_19 #
+lump $-1 $-1 $175 $24 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $176 $-1 $25 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_20 #
+lump $-1 $-1 $177 $25 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $178 $-1 $26 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_21 #
+lump $-1 $-1 $179 $26 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $180 $-1 $27 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_22 #
+lump $-1 $-1 $181 $27 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $182 $-1 $28 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_23 #
+lump $-1 $-1 $183 $28 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $184 $-1 $29 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_24 #
+lump $-1 $-1 $185 $29 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $186 $-1 $30 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_25 #
+lump $-1 $-1 $187 $30 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 $188 $-1 $31 keep keep_kept ignore 17 ATTRIB_XACIS_NAME 13 PML_AirBox_26 #
+lump $-1 $-1 $189 $31 #
+transform $-1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+rgb_color-st-attrib $-1 $190 $32 $0 0.51764705882352946 0.51764705882352946 0.75686274509803919 #
+shell $-1 $-1 $-1 $191 $-1 $33 #
+rgb_color-st-attrib $-1 $192 $35 $1 1 0.50196078431372548 0.25490196078431371 #
+shell $-1 $-1 $-1 $193 $-1 $36 #
+rgb_color-st-attrib $-1 $194 $37 $2 1 0.50196078431372548 0.25490196078431371 #
+shell $-1 $-1 $-1 $195 $-1 $38 #
+rgb_color-st-attrib $-1 $196 $39 $3 1 0.50196078431372548 0.25490196078431371 #
+shell $-1 $-1 $-1 $197 $-1 $40 #
+rgb_color-st-attrib $-1 $198 $42 $4 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $199 $-1 $43 #
+rgb_color-st-attrib $-1 $200 $45 $5 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $201 $-1 $46 #
+rgb_color-st-attrib $-1 $202 $48 $6 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $203 $-1 $49 #
+rgb_color-st-attrib $-1 $204 $51 $7 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $205 $-1 $52 #
+rgb_color-st-attrib $-1 $206 $54 $8 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $207 $-1 $55 #
+rgb_color-st-attrib $-1 $208 $57 $9 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $209 $-1 $58 #
+rgb_color-st-attrib $-1 $210 $60 $10 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $211 $-1 $61 #
+rgb_color-st-attrib $-1 $212 $63 $11 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $213 $-1 $64 #
+rgb_color-st-attrib $-1 $214 $66 $12 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $215 $-1 $67 #
+rgb_color-st-attrib $-1 $216 $69 $13 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $217 $-1 $70 #
+rgb_color-st-attrib $-1 $218 $72 $14 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $219 $-1 $73 #
+rgb_color-st-attrib $-1 $220 $75 $15 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $221 $-1 $76 #
+rgb_color-st-attrib $-1 $222 $78 $16 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $223 $-1 $79 #
+rgb_color-st-attrib $-1 $224 $81 $17 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $225 $-1 $82 #
+rgb_color-st-attrib $-1 $226 $84 $18 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $227 $-1 $85 #
+rgb_color-st-attrib $-1 $228 $87 $19 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $229 $-1 $88 #
+rgb_color-st-attrib $-1 $230 $90 $20 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $231 $-1 $91 #
+rgb_color-st-attrib $-1 $232 $93 $21 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $233 $-1 $94 #
+rgb_color-st-attrib $-1 $234 $96 $22 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $235 $-1 $97 #
+rgb_color-st-attrib $-1 $236 $99 $23 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $237 $-1 $100 #
+rgb_color-st-attrib $-1 $238 $102 $24 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $239 $-1 $103 #
+rgb_color-st-attrib $-1 $240 $105 $25 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $241 $-1 $106 #
+rgb_color-st-attrib $-1 $242 $108 $26 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $243 $-1 $109 #
+rgb_color-st-attrib $-1 $244 $111 $27 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $245 $-1 $112 #
+rgb_color-st-attrib $-1 $246 $114 $28 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $247 $-1 $115 #
+rgb_color-st-attrib $-1 $248 $117 $29 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $249 $-1 $118 #
+rgb_color-st-attrib $-1 $250 $120 $30 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $251 $-1 $121 #
+rgb_color-st-attrib $-1 $252 $123 $31 0.50196078431372548 0.50196078431372548 1 #
+shell $-1 $-1 $-1 $253 $-1 $124 #
+properties-ansoft-attrib $-1 $-1 $126 $0 3 sub 6 0 0 -2138798911 #
+face $254 $255 $256 $127 $-1 $257 forward single #
+properties-ansoft-attrib $-1 $-1 $128 $1 3 Arm 39 0 0 -2130739135 #
+face $258 $-1 $259 $129 $-1 $260 forward double out #
+properties-ansoft-attrib $-1 $-1 $130 $2 5 Arm_1 55 0 0 -2130739135 #
+face $261 $-1 $262 $131 $-1 $263 forward double out #
+properties-ansoft-attrib $-1 $-1 $132 $3 5 port1 66 0 0 -2130739135 #
+face $264 $-1 $265 $133 $-1 $266 forward double out #
+properties-ansoft-attrib $-1 $-1 $134 $4 6 AirBox 78 0 16 -2139062017 #
+face $267 $268 $269 $135 $-1 $270 forward single #
+properties-ansoft-attrib $-1 $-1 $136 $5 16 VirtualRadiation 106 0 16 -2139062017 #
+face $271 $272 $273 $137 $-1 $274 forward single #
+properties-ansoft-attrib $-1 $-1 $138 $6 12 PML_AirBox_1 140 0 16 -2139062017 #
+face $275 $276 $277 $139 $-1 $278 reversed single #
+properties-ansoft-attrib $-1 $-1 $140 $7 12 PML_AirBox_2 174 0 16 -2139062017 #
+face $279 $280 $281 $141 $-1 $282 reversed single #
+properties-ansoft-attrib $-1 $-1 $142 $8 12 PML_AirBox_3 208 0 16 -2139062017 #
+face $283 $284 $285 $143 $-1 $286 reversed single #
+properties-ansoft-attrib $-1 $-1 $144 $9 12 PML_AirBox_4 242 0 16 -2139062017 #
+face $287 $288 $289 $145 $-1 $290 reversed single #
+properties-ansoft-attrib $-1 $-1 $146 $10 12 PML_AirBox_5 276 0 16 -2139062017 #
+face $291 $292 $293 $147 $-1 $294 reversed single #
+properties-ansoft-attrib $-1 $-1 $148 $11 12 PML_AirBox_6 310 0 16 -2139062017 #
+face $295 $296 $297 $149 $-1 $298 forward single #
+properties-ansoft-attrib $-1 $-1 $150 $12 12 PML_AirBox_7 339 0 16 -2139062017 #
+face $299 $300 $301 $151 $-1 $302 forward single #
+properties-ansoft-attrib $-1 $-1 $152 $13 12 PML_AirBox_8 368 0 16 -2139062017 #
+face $303 $304 $305 $153 $-1 $306 forward single #
+properties-ansoft-attrib $-1 $-1 $154 $14 12 PML_AirBox_9 402 0 16 -2139062017 #
+face $307 $308 $309 $155 $-1 $310 forward single #
+properties-ansoft-attrib $-1 $-1 $156 $15 13 PML_AirBox_10 431 0 16 -2139062017 #
+face $311 $312 $313 $157 $-1 $314 forward single #
+properties-ansoft-attrib $-1 $-1 $158 $16 13 PML_AirBox_11 460 0 16 -2139062017 #
+face $315 $316 $317 $159 $-1 $318 forward single #
+properties-ansoft-attrib $-1 $-1 $160 $17 13 PML_AirBox_12 489 0 16 -2139062017 #
+face $319 $320 $321 $161 $-1 $322 forward single #
+properties-ansoft-attrib $-1 $-1 $162 $18 13 PML_AirBox_13 518 0 16 -2139062017 #
+face $323 $324 $325 $163 $-1 $326 forward single #
+properties-ansoft-attrib $-1 $-1 $164 $19 13 PML_AirBox_14 547 0 16 -2139062017 #
+face $327 $328 $329 $165 $-1 $330 forward single #
+properties-ansoft-attrib $-1 $-1 $166 $20 13 PML_AirBox_15 581 0 16 -2139062017 #
+face $331 $332 $333 $167 $-1 $334 forward single #
+properties-ansoft-attrib $-1 $-1 $168 $21 13 PML_AirBox_16 610 0 16 -2139062017 #
+face $335 $336 $337 $169 $-1 $338 forward single #
+properties-ansoft-attrib $-1 $-1 $170 $22 13 PML_AirBox_17 639 0 16 -2139062017 #
+face $339 $340 $341 $171 $-1 $342 forward single #
+properties-ansoft-attrib $-1 $-1 $172 $23 13 PML_AirBox_18 668 0 16 -2139062017 #
+face $343 $344 $345 $173 $-1 $346 forward single #
+properties-ansoft-attrib $-1 $-1 $174 $24 13 PML_AirBox_19 697 0 16 -2139062017 #
+face $347 $348 $349 $175 $-1 $350 forward single #
+properties-ansoft-attrib $-1 $-1 $176 $25 13 PML_AirBox_20 726 0 16 -2139062017 #
+face $351 $352 $353 $177 $-1 $354 forward single #
+properties-ansoft-attrib $-1 $-1 $178 $26 13 PML_AirBox_21 760 0 16 -2139062017 #
+face $355 $356 $357 $179 $-1 $358 forward single #
+properties-ansoft-attrib $-1 $-1 $180 $27 13 PML_AirBox_22 789 0 16 -2139062017 #
+face $359 $360 $361 $181 $-1 $362 forward single #
+properties-ansoft-attrib $-1 $-1 $182 $28 13 PML_AirBox_23 818 0 16 -2139062017 #
+face $363 $364 $365 $183 $-1 $366 forward single #
+properties-ansoft-attrib $-1 $-1 $184 $29 13 PML_AirBox_24 847 0 16 -2139062017 #
+face $367 $368 $369 $185 $-1 $370 forward single #
+properties-ansoft-attrib $-1 $-1 $186 $30 13 PML_AirBox_25 876 0 16 -2139062017 #
+face $371 $372 $373 $187 $-1 $374 forward single #
+properties-ansoft-attrib $-1 $-1 $188 $31 13 PML_AirBox_26 905 0 16 -2139062017 #
+face $375 $376 $377 $189 $-1 $378 forward single #
+fctd_mark-eye-attrib $-1 $-1 $-1 $191 #
+face $379 $380 $381 $127 $-1 $382 reversed single #
+loop $-1 $-1 $383 $191 #
+plane-surface $-1 0 0 0 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $193 #
+loop $-1 $-1 $384 $193 #
+plane-surface $-1 0 61.146121571845605 0 -0 -0 -1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $195 #
+loop $-1 $-1 $385 $195 #
+plane-surface $-1 -7.4882402063235638e-015 -61.146121571845605 0 0 0 -1 -1 1.2246467991473532e-016 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $197 #
+loop $-1 $-1 $386 $197 #
+plane-surface $-1 0 1.0092936587501423e-017 0 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $199 #
+face $387 $388 $389 $135 $-1 $390 reversed single #
+loop $-1 $-1 $391 $199 #
+plane-surface $-1 0 0 43.172899999999998 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $201 #
+face $392 $393 $394 $137 $-1 $395 reversed single #
+loop $-1 $-1 $396 $201 #
+plane-surface $-1 0 0 34.5383 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $203 #
+face $397 $398 $399 $139 $-1 $400 forward single #
+loop $-1 $-1 $401 $203 #
+plane-surface $-1 -180.76399255234128 0 -0.75 1 0 0 0 0 -1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $205 #
+face $402 $403 $404 $141 $-1 $405 forward single #
+loop $-1 $-1 $406 $205 #
+plane-surface $-1 180.76399255234128 0 -0.75 -1 0 0 0 0 1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $207 #
+face $407 $408 $409 $143 $-1 $410 forward single #
+loop $-1 $-1 $411 $207 #
+plane-surface $-1 0 -219.44672157184561 -0.75 0 1 0 0 0 1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $209 #
+face $412 $413 $414 $145 $-1 $415 forward single #
+loop $-1 $-1 $416 $209 #
+plane-surface $-1 0 219.44672157184561 -0.75 0 -1 0 0 0 -1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $211 #
+face $417 $418 $419 $147 $-1 $420 forward single #
+loop $-1 $-1 $421 $211 #
+plane-surface $-1 0 0 -159.8006 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $213 #
+face $422 $423 $424 $149 $-1 $425 reversed single #
+loop $-1 $-1 $426 $213 #
+plane-surface $-1 0 0 158.3006 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $215 #
+face $427 $428 $429 $151 $-1 $430 reversed single #
+loop $-1 $-1 $431 $215 #
+plane-surface $-1 -65.636292552341288 -219.44672157184561 -0.75 0 -1 -0 0 0 -1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $217 #
+face $432 $433 $434 $153 $-1 $435 reversed single #
+loop $-1 $-1 $436 $217 #
+plane-surface $-1 -65.636292552341288 219.44672157184561 -0.75 -0 1 -0 -0 0 1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $219 #
+face $437 $438 $439 $155 $-1 $440 reversed single #
+loop $-1 $-1 $441 $219 #
+plane-surface $-1 -65.636292552341288 0 -159.8006 -0 -0 -1 -1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $221 #
+face $442 $443 $444 $157 $-1 $445 reversed single #
+loop $-1 $-1 $446 $221 #
+plane-surface $-1 -65.636292552341288 0 158.3006 -0 -0 1 1 -0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $223 #
+face $447 $448 $449 $159 $-1 $450 reversed single #
+loop $-1 $-1 $451 $223 #
+plane-surface $-1 65.636292552341288 -219.44672157184561 -0.75 -0 -1 -0 0 0 -1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $225 #
+face $452 $453 $454 $161 $-1 $455 reversed single #
+loop $-1 $-1 $456 $225 #
+plane-surface $-1 65.636292552341288 219.44672157184561 -0.75 0 1 0 0 0 1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $227 #
+face $457 $458 $459 $163 $-1 $460 reversed single #
+loop $-1 $-1 $461 $227 #
+plane-surface $-1 65.636292552341288 0 -159.8006 -0 -0 -1 -1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $229 #
+face $462 $463 $464 $165 $-1 $465 reversed single #
+loop $-1 $-1 $466 $229 #
+plane-surface $-1 65.636292552341288 0 158.3006 -0 -0 1 1 -0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $231 #
+face $467 $468 $469 $167 $-1 $470 reversed single #
+loop $-1 $-1 $471 $231 #
+plane-surface $-1 0 -104.31902157184561 -159.8006 -0 0 -1 -1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $233 #
+face $472 $473 $474 $169 $-1 $475 reversed single #
+loop $-1 $-1 $476 $233 #
+plane-surface $-1 0 -104.31902157184561 158.3006 -0 -0 1 1 -0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $235 #
+face $477 $478 $479 $171 $-1 $480 reversed single #
+loop $-1 $-1 $481 $235 #
+plane-surface $-1 0 104.31902157184561 -159.8006 0 -0 -1 -1 0 -0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $237 #
+face $482 $483 $484 $173 $-1 $485 reversed single #
+loop $-1 $-1 $486 $237 #
+plane-surface $-1 0 104.31902157184561 158.3006 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $239 #
+face $487 $488 $489 $175 $-1 $490 reversed single #
+loop $-1 $-1 $491 $239 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 -159.8006 -0 0 -1 -1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $241 #
+face $492 $493 $494 $177 $-1 $495 reversed single #
+loop $-1 $-1 $496 $241 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 158.3006 -0 -0 1 1 -0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $243 #
+face $497 $498 $499 $179 $-1 $500 reversed single #
+loop $-1 $-1 $501 $243 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 -159.8006 0 -0 -1 -1 0 -0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $245 #
+face $502 $503 $504 $181 $-1 $505 reversed single #
+loop $-1 $-1 $506 $245 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 158.3006 -0 -0 1 1 -0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $247 #
+face $507 $508 $509 $183 $-1 $510 reversed single #
+loop $-1 $-1 $511 $247 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 -159.8006 -0 0 -1 -1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $249 #
+face $512 $513 $514 $185 $-1 $515 reversed single #
+loop $-1 $-1 $516 $249 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 158.3006 -0 -0 1 1 -0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $251 #
+face $517 $518 $519 $187 $-1 $520 reversed single #
+loop $-1 $-1 $521 $251 #
+plane-surface $-1 123.20014255234128 104.31902157184561 -159.8006 -0 0 -1 -1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $253 #
+face $522 $523 $524 $189 $-1 $525 reversed single #
+loop $-1 $-1 $526 $253 #
+plane-surface $-1 123.20014255234128 104.31902157184561 158.3006 -0 -0 1 1 -0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $255 #
+face $527 $528 $529 $127 $-1 $530 reversed single #
+loop $-1 $-1 $531 $255 #
+plane-surface $-1 0 0 -1.5 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 $532 $533 $534 $535 forward $256 $-1 #
+coedge $-1 $536 $537 $-1 $538 forward $259 $-1 #
+coedge $-1 $539 $540 $-1 $541 forward $262 $-1 #
+coedge $-1 $542 $543 $-1 $544 forward $265 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $268 #
+face $545 $546 $547 $135 $-1 $548 reversed single #
+loop $-1 $-1 $549 $268 #
+plane-surface $-1 0 0 -44.672899999999998 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 $550 $551 $552 $553 forward $269 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $272 #
+face $554 $555 $556 $137 $-1 $557 reversed single #
+loop $-1 $-1 $558 $272 #
+plane-surface $-1 0 0 -36.0383 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 $559 $560 $561 $562 forward $273 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $276 #
+face $563 $564 $565 $139 $-1 $566 forward single #
+loop $-1 $-1 $567 $276 #
+plane-surface $-1 -65.636292552341288 0 -0.75 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $568 $569 $570 $571 forward $277 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $280 #
+face $572 $573 $574 $141 $-1 $575 forward single #
+loop $-1 $-1 $576 $280 #
+plane-surface $-1 65.636292552341288 0 -0.75 -1 0 0 0 0 1 forward_v I I I I #
+coedge $-1 $577 $578 $579 $580 forward $281 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $284 #
+face $581 $582 $583 $143 $-1 $584 forward single #
+loop $-1 $-1 $585 $284 #
+plane-surface $-1 0 -104.31902157184561 -0.75 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $586 $587 $588 $589 forward $285 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $288 #
+face $590 $591 $592 $145 $-1 $593 forward single #
+loop $-1 $-1 $594 $288 #
+plane-surface $-1 0 104.31902157184561 -0.75 0 -1 0 0 0 -1 forward_v I I I I #
+coedge $-1 $595 $596 $597 $598 forward $289 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $292 #
+face $599 $600 $601 $147 $-1 $602 forward single #
+loop $-1 $-1 $603 $292 #
+plane-surface $-1 0 0 -44.672899999999998 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 $604 $605 $606 $607 forward $293 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $296 #
+face $608 $609 $610 $149 $-1 $611 forward single #
+loop $-1 $-1 $612 $296 #
+plane-surface $-1 0 0 43.172899999999998 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 $613 $614 $615 $616 forward $297 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $300 #
+face $617 $618 $619 $151 $-1 $620 forward single #
+loop $-1 $-1 $621 $300 #
+plane-surface $-1 -65.636292552341288 -104.31902157184561 -0.75 0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $622 $623 $624 $625 forward $301 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $304 #
+face $626 $627 $628 $153 $-1 $629 forward single #
+loop $-1 $-1 $630 $304 #
+plane-surface $-1 -65.636292552341288 104.31902157184561 -0.75 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $631 $632 $633 $634 reversed $305 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $308 #
+face $635 $636 $637 $155 $-1 $638 forward single #
+loop $-1 $-1 $639 $308 #
+plane-surface $-1 -65.636292552341288 0 -44.672899999999998 -0 -0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $640 $641 $642 $643 forward $309 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $312 #
+face $644 $645 $646 $157 $-1 $647 forward single #
+loop $-1 $-1 $648 $312 #
+plane-surface $-1 -65.636292552341288 0 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $649 $650 $651 $652 forward $313 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $316 #
+face $653 $654 $655 $159 $-1 $656 forward single #
+loop $-1 $-1 $657 $316 #
+plane-surface $-1 65.636292552341288 -104.31902157184561 -0.75 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $658 $659 $660 $661 reversed $317 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $320 #
+face $662 $663 $664 $161 $-1 $665 forward single #
+loop $-1 $-1 $666 $320 #
+plane-surface $-1 65.636292552341288 104.31902157184561 -0.75 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $667 $668 $669 $670 forward $321 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $324 #
+face $671 $672 $673 $163 $-1 $674 forward single #
+loop $-1 $-1 $675 $324 #
+plane-surface $-1 65.636292552341288 0 -44.672899999999998 -0 -0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $676 $677 $678 $679 forward $325 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $328 #
+face $680 $681 $682 $165 $-1 $683 forward single #
+loop $-1 $-1 $684 $328 #
+plane-surface $-1 65.636292552341288 0 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $685 $686 $687 $688 forward $329 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $332 #
+face $689 $690 $691 $167 $-1 $692 forward single #
+loop $-1 $-1 $693 $332 #
+plane-surface $-1 0 -104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $694 $695 $696 $697 forward $333 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $336 #
+face $698 $699 $700 $169 $-1 $701 forward single #
+loop $-1 $-1 $702 $336 #
+plane-surface $-1 0 -104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $703 $704 $705 $706 forward $337 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $340 #
+face $707 $708 $709 $171 $-1 $710 forward single #
+loop $-1 $-1 $711 $340 #
+plane-surface $-1 0 104.31902157184561 -44.672899999999998 0 -0 -1 -1 0 -0 forward_v I I I I #
+coedge $-1 $712 $713 $714 $715 forward $341 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $344 #
+face $716 $717 $718 $173 $-1 $719 forward single #
+loop $-1 $-1 $720 $344 #
+plane-surface $-1 0 104.31902157184561 43.172899999999998 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 $721 $722 $723 $724 forward $345 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $348 #
+face $725 $726 $727 $175 $-1 $728 forward single #
+loop $-1 $-1 $729 $348 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $730 $731 $732 $733 reversed $349 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $352 #
+face $734 $735 $736 $177 $-1 $737 forward single #
+loop $-1 $-1 $738 $352 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $739 $740 $741 $742 reversed $353 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $356 #
+face $743 $744 $745 $179 $-1 $746 forward single #
+loop $-1 $-1 $747 $356 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 -44.672899999999998 0 -0 -1 -1 0 -0 forward_v I I I I #
+coedge $-1 $748 $749 $750 $751 forward $357 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $360 #
+face $752 $753 $754 $181 $-1 $755 forward single #
+loop $-1 $-1 $756 $360 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $757 $758 $759 $760 forward $361 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $364 #
+face $761 $762 $763 $183 $-1 $764 forward single #
+loop $-1 $-1 $765 $364 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $766 $767 $768 $769 forward $365 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $368 #
+face $770 $771 $772 $185 $-1 $773 forward single #
+loop $-1 $-1 $774 $368 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $775 $776 $777 $778 reversed $369 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $372 #
+face $779 $780 $781 $187 $-1 $782 forward single #
+loop $-1 $-1 $783 $372 #
+plane-surface $-1 123.20014255234128 104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $784 $785 $786 $787 reversed $373 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $376 #
+face $788 $789 $790 $189 $-1 $791 forward single #
+loop $-1 $-1 $792 $376 #
+plane-surface $-1 123.20014255234128 104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $793 $794 $795 $796 reversed $377 $-1 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $380 #
+face $797 $798 $799 $127 $-1 $800 reversed single #
+loop $-1 $-1 $801 $380 #
+plane-surface $-1 0 -61.146121571845605 -0.75 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $802 $803 $804 $805 forward $381 $-1 #
+coedge $-1 $806 $383 $807 $808 forward $256 $-1 #
+coedge $-1 $383 $806 $809 $810 forward $256 $-1 #
+coedge $-1 $811 $812 $383 $535 reversed $813 $-1 #
+edge $814 $815 -61.146121571845605 $816 61.146121571845605 $534 $817 forward 7 unknown #
+coedge $-1 $818 $384 $-1 $819 forward $259 $-1 #
+coedge $-1 $384 $818 $-1 $820 reversed $259 $-1 #
+edge $821 $822 0 $823 44.926785104682601 $384 $824 forward 7 unknown #
+coedge $-1 $825 $385 $-1 $826 forward $262 $-1 #
+coedge $-1 $385 $825 $-1 $827 reversed $262 $-1 #
+edge $828 $829 0 $830 44.926785104682601 $385 $831 forward 7 unknown #
+coedge $-1 $832 $386 $-1 $833 forward $265 $-1 #
+coedge $-1 $386 $832 $-1 $834 forward $265 $-1 #
+edge $835 $836 0 $837 3 $386 $838 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $388 #
+face $839 $840 $841 $135 $-1 $842 reversed single #
+loop $-1 $-1 $843 $388 #
+plane-surface $-1 0 -104.31902157184561 -0.75 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $844 $845 $846 $847 forward $389 $-1 #
+coedge $-1 $848 $391 $849 $850 forward $269 $-1 #
+coedge $-1 $391 $848 $851 $852 forward $269 $-1 #
+coedge $-1 $853 $854 $391 $553 reversed $855 $-1 #
+edge $856 $857 -104.31902157184561 $858 104.31902157184561 $552 $859 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $393 #
+face $860 $861 $862 $137 $-1 $863 reversed single #
+loop $-1 $-1 $864 $393 #
+plane-surface $-1 0 -95.684421571845604 -0.75 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $865 $866 $867 $868 forward $394 $-1 #
+coedge $-1 $869 $396 $870 $871 forward $273 $-1 #
+coedge $-1 $396 $869 $872 $873 forward $273 $-1 #
+coedge $-1 $874 $875 $396 $562 reversed $876 $-1 #
+edge $877 $878 -95.684421571845604 $879 95.684421571845604 $561 $880 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $398 #
+face $881 $882 $883 $139 $-1 $884 forward single #
+loop $-1 $-1 $570 $398 #
+plane-surface $-1 -65.636292552341288 104.31902157184561 -0.75 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $885 $886 $887 $888 reversed $399 $-1 #
+coedge $-1 $889 $401 $890 $891 reversed $277 $-1 #
+coedge $-1 $401 $889 $892 $893 reversed $277 $-1 #
+coedge $-1 $894 $895 $401 $571 reversed $565 $-1 #
+edge $896 $897 -43.922899999999998 $898 43.922899999999998 $401 $899 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $403 #
+face $900 $901 $902 $141 $-1 $903 forward single #
+loop $-1 $-1 $579 $403 #
+plane-surface $-1 65.636292552341288 -104.31902157184561 -0.75 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $904 $905 $906 $907 reversed $404 $-1 #
+coedge $-1 $908 $406 $909 $910 reversed $281 $-1 #
+coedge $-1 $406 $908 $911 $912 reversed $281 $-1 #
+coedge $-1 $913 $914 $406 $580 reversed $574 $-1 #
+edge $915 $916 -43.922899999999998 $917 43.922899999999998 $406 $918 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $408 #
+face $919 $920 $921 $143 $-1 $922 forward single #
+loop $-1 $-1 $588 $408 #
+plane-surface $-1 -65.636292552341288 -104.31902157184561 -0.75 -1 0 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $923 $924 $925 $926 reversed $409 $-1 #
+coedge $-1 $927 $411 $928 $929 reversed $285 $-1 #
+coedge $-1 $411 $927 $930 $931 reversed $285 $-1 #
+coedge $-1 $932 $933 $411 $589 reversed $583 $-1 #
+edge $934 $935 -43.922899999999998 $936 43.922899999999998 $411 $937 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $413 #
+face $938 $939 $940 $145 $-1 $941 forward single #
+loop $-1 $-1 $597 $413 #
+plane-surface $-1 65.636292552341288 104.31902157184561 -0.75 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $942 $943 $944 $945 reversed $414 $-1 #
+coedge $-1 $946 $416 $947 $948 reversed $289 $-1 #
+coedge $-1 $416 $946 $949 $950 reversed $289 $-1 #
+coedge $-1 $951 $952 $416 $598 reversed $592 $-1 #
+edge $953 $954 -43.922899999999998 $955 43.922899999999998 $416 $956 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $418 #
+face $957 $958 $959 $147 $-1 $960 forward single #
+loop $-1 $-1 $606 $418 #
+plane-surface $-1 65.636292552341288 0 -44.672899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $961 $962 $963 $964 reversed $419 $-1 #
+coedge $-1 $965 $421 $966 $967 forward $293 $-1 #
+coedge $-1 $421 $965 $968 $969 forward $293 $-1 #
+coedge $-1 $970 $971 $421 $607 reversed $601 $-1 #
+edge $972 $973 -104.31902157184561 $974 104.31902157184561 $421 $975 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $423 #
+face $976 $977 $978 $149 $-1 $979 forward single #
+loop $-1 $-1 $615 $423 #
+plane-surface $-1 65.636292552341288 0 43.172899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $980 $981 $982 $983 reversed $424 $-1 #
+coedge $-1 $984 $426 $985 $986 forward $297 $-1 #
+coedge $-1 $426 $984 $987 $988 forward $297 $-1 #
+coedge $-1 $989 $990 $426 $616 reversed $610 $-1 #
+edge $991 $992 -104.31902157184561 $993 104.31902157184561 $426 $994 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $428 #
+face $995 $996 $997 $151 $-1 $998 forward single #
+loop $-1 $-1 $624 $428 #
+plane-surface $-1 -180.76399255234128 -104.31902157184561 -0.75 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $999 $1000 $1001 $1002 reversed $429 $-1 #
+coedge $-1 $1003 $431 $1004 $1005 forward $301 $-1 #
+coedge $-1 $431 $1003 $1006 $1007 forward $301 $-1 #
+coedge $-1 $1008 $1009 $431 $625 reversed $619 $-1 #
+edge $1010 $1011 -43.922899999999998 $1012 43.922899999999998 $431 $1013 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $433 #
+face $1014 $1015 $1016 $153 $-1 $1017 forward single #
+loop $-1 $-1 $633 $433 #
+plane-surface $-1 -180.76399255234128 104.31902157184561 -0.75 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $1018 $1019 $1020 $1021 forward $434 $-1 #
+coedge $-1 $1022 $436 $1023 $1024 reversed $305 $-1 #
+coedge $-1 $436 $1022 $1025 $1026 reversed $305 $-1 #
+coedge $-1 $1027 $1028 $436 $634 forward $628 $-1 #
+edge $1029 $1030 -43.922899999999998 $1031 43.922899999999998 $436 $1032 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $438 #
+face $1033 $1034 $1035 $155 $-1 $1036 forward single #
+loop $-1 $-1 $642 $438 #
+plane-surface $-1 -180.76399255234128 0 -44.672899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $1037 $1038 $1039 $1040 reversed $439 $-1 #
+coedge $-1 $1041 $441 $1042 $1043 forward $309 $-1 #
+coedge $-1 $441 $1041 $1044 $1045 reversed $309 $-1 #
+coedge $-1 $1046 $1047 $441 $643 reversed $637 $-1 #
+edge $1048 $1049 -104.31902157184561 $1050 104.31902157184561 $441 $1051 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $443 #
+face $1052 $1053 $1054 $157 $-1 $1055 forward single #
+loop $-1 $-1 $651 $443 #
+plane-surface $-1 -180.76399255234128 0 43.172899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $1056 $1057 $1058 $1059 reversed $444 $-1 #
+coedge $-1 $1060 $446 $1061 $1062 reversed $313 $-1 #
+coedge $-1 $446 $1060 $1063 $1064 forward $313 $-1 #
+coedge $-1 $1065 $1066 $446 $652 reversed $646 $-1 #
+edge $1067 $1068 -104.31902157184561 $1069 104.31902157184561 $446 $1070 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $448 #
+face $1071 $1072 $1073 $159 $-1 $1074 forward single #
+loop $-1 $-1 $660 $448 #
+plane-surface $-1 180.76399255234128 -104.31902157184561 -0.75 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1075 $1076 $1077 $1078 forward $449 $-1 #
+coedge $-1 $1079 $451 $1080 $1081 forward $317 $-1 #
+coedge $-1 $451 $1079 $1082 $1083 reversed $317 $-1 #
+coedge $-1 $1084 $1085 $451 $661 forward $655 $-1 #
+edge $1086 $1087 -43.922899999999998 $1088 43.922899999999998 $451 $1089 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $453 #
+face $1090 $1091 $1092 $161 $-1 $1093 forward single #
+loop $-1 $-1 $669 $453 #
+plane-surface $-1 180.76399255234128 104.31902157184561 -0.75 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1094 $1095 $1096 $1097 reversed $454 $-1 #
+coedge $-1 $1098 $456 $1099 $1100 forward $321 $-1 #
+coedge $-1 $456 $1098 $1101 $1102 forward $321 $-1 #
+coedge $-1 $1103 $1104 $456 $670 reversed $664 $-1 #
+edge $1105 $1106 -43.922899999999998 $1107 43.922899999999998 $456 $1108 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $458 #
+face $1109 $1110 $1111 $163 $-1 $1112 forward single #
+loop $-1 $-1 $678 $458 #
+plane-surface $-1 180.76399255234128 0 -44.672899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1113 $1114 $1115 $1116 reversed $459 $-1 #
+coedge $-1 $1117 $461 $1118 $1119 forward $325 $-1 #
+coedge $-1 $461 $1117 $1120 $1121 reversed $325 $-1 #
+coedge $-1 $1122 $1123 $461 $679 reversed $673 $-1 #
+edge $1124 $1125 -104.31902157184561 $1126 104.31902157184561 $461 $1127 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $463 #
+face $1128 $1129 $1130 $165 $-1 $1131 forward single #
+loop $-1 $-1 $687 $463 #
+plane-surface $-1 180.76399255234128 0 43.172899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1132 $1133 $1134 $1135 reversed $464 $-1 #
+coedge $-1 $1136 $466 $1137 $1138 reversed $329 $-1 #
+coedge $-1 $466 $1136 $1139 $1140 reversed $329 $-1 #
+coedge $-1 $1141 $1142 $466 $688 reversed $682 $-1 #
+edge $1143 $1144 -104.31902157184561 $1145 104.31902157184561 $466 $1146 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $468 #
+face $1147 $1148 $1149 $167 $-1 $1150 forward single #
+loop $-1 $-1 $696 $468 #
+plane-surface $-1 0 -219.44672157184561 -44.672899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1151 $1152 $1153 $1154 reversed $469 $-1 #
+coedge $-1 $1155 $471 $1156 $1157 forward $333 $-1 #
+coedge $-1 $471 $1155 $1158 $1159 forward $333 $-1 #
+coedge $-1 $1160 $1161 $471 $697 reversed $691 $-1 #
+edge $1162 $1163 -65.636292552341288 $1164 65.636292552341288 $471 $1165 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $473 #
+face $1166 $1167 $1168 $169 $-1 $1169 forward single #
+loop $-1 $-1 $705 $473 #
+plane-surface $-1 0 -219.44672157184561 43.172899999999998 0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1170 $1171 $1172 $1173 reversed $474 $-1 #
+coedge $-1 $1174 $476 $1175 $1176 forward $337 $-1 #
+coedge $-1 $476 $1174 $1177 $1178 forward $337 $-1 #
+coedge $-1 $1179 $1180 $476 $706 reversed $700 $-1 #
+edge $1181 $1182 -65.636292552341288 $1183 65.636292552341288 $476 $1184 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $478 #
+face $1185 $1186 $1187 $171 $-1 $1188 forward single #
+loop $-1 $-1 $714 $478 #
+plane-surface $-1 0 219.44672157184561 -44.672899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1189 $1190 $1191 $1192 reversed $479 $-1 #
+coedge $-1 $1193 $481 $1194 $1195 forward $341 $-1 #
+coedge $-1 $481 $1193 $1196 $1197 reversed $341 $-1 #
+coedge $-1 $1198 $1199 $481 $715 reversed $709 $-1 #
+edge $1200 $1201 -65.636292552341288 $1202 65.636292552341288 $481 $1203 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $483 #
+face $1204 $1205 $1206 $173 $-1 $1207 forward single #
+loop $-1 $-1 $723 $483 #
+plane-surface $-1 0 219.44672157184561 43.172899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1208 $1209 $1210 $1211 reversed $484 $-1 #
+coedge $-1 $1212 $486 $1213 $1214 reversed $345 $-1 #
+coedge $-1 $486 $1212 $1215 $1216 forward $345 $-1 #
+coedge $-1 $1217 $1218 $486 $724 reversed $718 $-1 #
+edge $1219 $1220 -65.636292552341288 $1221 65.636292552341288 $486 $1222 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $488 #
+face $1223 $1224 $1225 $175 $-1 $1226 forward single #
+loop $-1 $-1 $732 $488 #
+plane-surface $-1 -123.20014255234128 -219.44672157184561 -44.672899999999998 0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1227 $1228 $1229 $1230 forward $489 $-1 #
+coedge $-1 $1231 $491 $1232 $1233 forward $349 $-1 #
+coedge $-1 $491 $1231 $1234 $1235 forward $349 $-1 #
+coedge $-1 $1236 $1237 $491 $733 forward $727 $-1 #
+edge $1238 $1239 0 $1240 115.12769999999999 $491 $1241 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $493 #
+face $1242 $1243 $1244 $177 $-1 $1245 forward single #
+loop $-1 $-1 $741 $493 #
+plane-surface $-1 -123.20014255234128 -219.44672157184561 43.172899999999998 0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1246 $1247 $1248 $1249 forward $494 $-1 #
+coedge $-1 $1250 $496 $1251 $1252 forward $353 $-1 #
+coedge $-1 $496 $1250 $1253 $1254 forward $353 $-1 #
+coedge $-1 $1255 $1256 $496 $742 forward $736 $-1 #
+edge $1257 $1258 -115.12769999999999 $1259 -0 $496 $1260 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $498 #
+face $1261 $1262 $1263 $179 $-1 $1264 forward single #
+loop $-1 $-1 $750 $498 #
+plane-surface $-1 -123.20014255234128 219.44672157184561 -44.672899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1265 $1266 $1267 $1268 reversed $499 $-1 #
+coedge $-1 $1269 $501 $1270 $1271 forward $357 $-1 #
+coedge $-1 $501 $1269 $1272 $1273 forward $357 $-1 #
+coedge $-1 $1274 $1275 $501 $751 reversed $745 $-1 #
+edge $1276 $1277 0 $1278 115.12769999999999 $501 $1279 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $503 #
+face $1280 $1281 $1282 $181 $-1 $1283 forward single #
+loop $-1 $-1 $759 $503 #
+plane-surface $-1 -123.20014255234128 219.44672157184561 43.172899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1284 $1285 $1286 $1287 reversed $504 $-1 #
+coedge $-1 $1288 $506 $1289 $1290 forward $361 $-1 #
+coedge $-1 $506 $1288 $1291 $1292 forward $361 $-1 #
+coedge $-1 $1293 $1294 $506 $760 reversed $754 $-1 #
+edge $1295 $1296 -115.12769999999999 $1297 -0 $506 $1298 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $508 #
+face $1299 $1300 $1301 $183 $-1 $1302 forward single #
+loop $-1 $-1 $768 $508 #
+plane-surface $-1 123.20014255234128 -219.44672157184561 -44.672899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1303 $1304 $1305 $1306 reversed $509 $-1 #
+coedge $-1 $1307 $511 $1308 $1309 forward $365 $-1 #
+coedge $-1 $511 $1307 $1310 $1311 forward $365 $-1 #
+coedge $-1 $1312 $1313 $511 $769 reversed $763 $-1 #
+edge $1314 $1315 0 $1316 115.12769999999999 $511 $1317 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $513 #
+face $1318 $1319 $1320 $185 $-1 $1321 forward single #
+loop $-1 $-1 $777 $513 #
+plane-surface $-1 123.20014255234128 -219.44672157184561 43.172899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1322 $1323 $1324 $1325 forward $514 $-1 #
+coedge $-1 $1326 $516 $1327 $1328 forward $369 $-1 #
+coedge $-1 $516 $1326 $1329 $1330 forward $369 $-1 #
+coedge $-1 $1331 $1332 $516 $778 forward $772 $-1 #
+edge $1333 $1334 0 $1335 115.12769999999999 $516 $1336 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $518 #
+face $1337 $1338 $1339 $187 $-1 $1340 forward single #
+loop $-1 $-1 $786 $518 #
+plane-surface $-1 123.20014255234128 219.44672157184561 -44.672899999999998 0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1341 $1342 $1343 $1344 forward $519 $-1 #
+coedge $-1 $1345 $521 $1346 $1347 forward $373 $-1 #
+coedge $-1 $521 $1345 $1348 $1349 forward $373 $-1 #
+coedge $-1 $1350 $1351 $521 $787 forward $781 $-1 #
+edge $1352 $1353 0 $1354 115.12769999999999 $521 $1355 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $523 #
+face $1356 $1357 $1358 $189 $-1 $1359 forward single #
+loop $-1 $-1 $795 $523 #
+plane-surface $-1 123.20014255234128 219.44672157184561 43.172899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1360 $1361 $1362 $1363 forward $524 $-1 #
+coedge $-1 $1364 $526 $1365 $1366 forward $377 $-1 #
+coedge $-1 $526 $1364 $1367 $1368 forward $377 $-1 #
+coedge $-1 $1369 $1370 $526 $796 forward $790 $-1 #
+edge $1371 $1372 -115.12769999999999 $1373 0 $526 $1374 forward 7 unknown #
+fctd_mark-eye-attrib $-1 $-1 $-1 $528 #
+face $1375 $1376 $1377 $127 $-1 $1378 reversed single #
+loop $-1 $-1 $1379 $528 #
+plane-surface $-1 -22.463392552341301 0 -0.75 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $1380 $809 $1381 $1382 forward $529 $-1 #
+coedge $-1 $1383 $531 $1380 $1384 forward $381 $-1 #
+coedge $-1 $531 $1383 $1385 $1386 forward $381 $-1 #
+coedge $-1 $812 $811 $531 $805 reversed $813 $-1 #
+edge $1387 $1388 -61.146121571845605 $1389 61.146121571845605 $804 $1390 forward 7 unknown #
+coedge $-1 $533 $532 $1391 $1392 forward $256 $-1 #
+coedge $-1 $1393 $1394 $532 $808 reversed $1377 $-1 #
+edge $1395 $816 -22.463392552341301 $1396 22.463392552341301 $807 $1397 forward 7 unknown #
+coedge $-1 $801 $1398 $533 $810 reversed $529 $-1 #
+edge $1399 $1400 -22.463392552341301 $815 22.463392552341301 $809 $1401 forward 7 unknown #
+coedge $-1 $804 $534 $1398 $1402 forward $813 $-1 #
+coedge $-1 $534 $804 $1393 $1403 reversed $813 $-1 #
+loop $-1 $-1 $811 $1376 #
+ptlist-eye-attrib $-1 $-1 $-1 $535 #
+vertex $-1 $535 $1404 #
+vertex $-1 $535 $1405 #
+straight-curve $-1 22.463392552341301 0 0 0 1 0 I I #
+coedge $-1 $537 $536 $-1 $1406 reversed $259 $-1 #
+edge $1407 $823 0 $1408 63.222809537910791 $536 $1409 forward 7 unknown #
+edge $1410 $822 0 $1411 63.222809537910791 $537 $1412 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $538 #
+vertex $-1 $820 $1413 #
+vertex $-1 $819 $1414 #
+straight-curve $-1 -22.463392552341301 61.146121571845605 0 1 0 0 I I #
+coedge $-1 $540 $539 $-1 $1415 reversed $262 $-1 #
+edge $1416 $830 0 $1417 63.222809537910791 $539 $1418 forward 7 unknown #
+edge $1419 $829 0 $1420 63.222809537910791 $540 $1421 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $541 #
+vertex $-1 $827 $1422 #
+vertex $-1 $826 $1423 #
+straight-curve $-1 22.463392552341293 -61.146121571845605 0 -1 1.2246467991473532e-016 0 I I #
+coedge $-1 $543 $542 $-1 $1424 forward $265 $-1 #
+edge $1425 $837 0 $1426 3 $542 $1427 forward 7 unknown #
+edge $1428 $1429 0 $836 3 $543 $1430 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $544 #
+vertex $-1 $544 $1431 #
+vertex $-1 $544 $1432 #
+straight-curve $-1 -1.5 -1.5 0 1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $546 #
+face $1433 $1434 $1435 $135 $-1 $1436 reversed single #
+loop $-1 $-1 $1437 $546 #
+plane-surface $-1 -65.636292552341288 0 -0.75 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $1438 $851 $1439 $1440 forward $547 $-1 #
+coedge $-1 $1441 $549 $1438 $1442 forward $389 $-1 #
+coedge $-1 $549 $1441 $1443 $1444 forward $389 $-1 #
+coedge $-1 $854 $853 $549 $847 reversed $855 $-1 #
+edge $1445 $1446 -104.31902157184561 $1447 104.31902157184561 $846 $1448 forward 7 unknown #
+coedge $-1 $551 $550 $1449 $1450 forward $269 $-1 #
+coedge $-1 $1451 $1452 $550 $850 reversed $1435 $-1 #
+edge $1453 $858 -65.636292552341288 $1454 65.636292552341288 $849 $1455 forward 7 unknown #
+coedge $-1 $843 $1456 $551 $852 reversed $547 $-1 #
+edge $1457 $1458 -65.636292552341288 $857 65.636292552341288 $851 $1459 forward 7 unknown #
+coedge $-1 $846 $552 $1456 $1460 forward $855 $-1 #
+coedge $-1 $552 $846 $1451 $1461 reversed $855 $-1 #
+loop $-1 $-1 $853 $1434 #
+ptlist-eye-attrib $-1 $-1 $-1 $553 #
+vertex $-1 $553 $1462 #
+vertex $-1 $553 $1463 #
+straight-curve $-1 65.636292552341288 0 43.172899999999998 0 1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $555 #
+face $1464 $1465 $1466 $137 $-1 $1467 reversed single #
+loop $-1 $-1 $1468 $555 #
+plane-surface $-1 -57.001692552341304 0 -0.75 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $1469 $872 $1470 $1471 forward $556 $-1 #
+coedge $-1 $1472 $558 $1469 $1473 forward $394 $-1 #
+coedge $-1 $558 $1472 $1474 $1475 forward $394 $-1 #
+coedge $-1 $875 $874 $558 $868 reversed $876 $-1 #
+edge $1476 $1477 -95.684421571845604 $1478 95.684421571845604 $867 $1479 forward 7 unknown #
+coedge $-1 $560 $559 $1480 $1481 forward $273 $-1 #
+coedge $-1 $1482 $1483 $559 $871 reversed $1466 $-1 #
+edge $1484 $879 -57.001692552341304 $1485 57.001692552341304 $870 $1486 forward 7 unknown #
+coedge $-1 $864 $1487 $560 $873 reversed $556 $-1 #
+edge $1488 $1489 -57.001692552341304 $878 57.001692552341304 $872 $1490 forward 7 unknown #
+coedge $-1 $867 $561 $1487 $1491 forward $876 $-1 #
+coedge $-1 $561 $867 $1482 $1492 reversed $876 $-1 #
+loop $-1 $-1 $874 $1465 #
+ptlist-eye-attrib $-1 $-1 $-1 $562 #
+vertex $-1 $562 $1493 #
+vertex $-1 $562 $1494 #
+straight-curve $-1 57.001692552341304 0 34.5383 0 1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $564 #
+face $1495 $1496 $1497 $139 $-1 $1498 forward single #
+loop $-1 $-1 $890 $564 #
+plane-surface $-1 -65.636292552341288 0 -44.672899999999998 -0 -0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $1499 $567 $1500 $1501 forward $399 $-1 #
+coedge $-1 $567 $1499 $1502 $1503 forward $399 $-1 #
+coedge $-1 $895 $894 $567 $888 forward $565 $-1 #
+edge $1504 $1505 -43.922899999999998 $1506 43.922899999999998 $567 $1507 forward 7 unknown #
+coedge $-1 $569 $568 $1508 $1509 reversed $277 $-1 #
+coedge $-1 $1510 $1511 $568 $891 forward $883 $-1 #
+edge $1512 $1513 -104.31902157184561 $898 104.31902157184561 $568 $1514 forward 7 unknown #
+coedge $-1 $1515 $1516 $569 $893 forward $1517 $-1 #
+edge $1518 $897 -104.31902157184561 $1519 104.31902157184561 $569 $1520 forward 7 unknown #
+coedge $-1 $887 $570 $1516 $1521 reversed $565 $-1 #
+coedge $-1 $570 $887 $1510 $1522 reversed $565 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $571 #
+vertex $-1 $571 $1523 #
+vertex $-1 $891 $1524 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $573 #
+face $1525 $1526 $1527 $141 $-1 $1528 forward single #
+loop $-1 $-1 $909 $573 #
+plane-surface $-1 65.636292552341288 0 -44.672899999999998 -0 -0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $1529 $576 $1530 $1531 forward $404 $-1 #
+coedge $-1 $576 $1529 $1532 $1533 forward $404 $-1 #
+coedge $-1 $914 $913 $576 $907 forward $574 $-1 #
+edge $1534 $1535 -43.922899999999998 $1536 43.922899999999998 $576 $1537 forward 7 unknown #
+coedge $-1 $578 $577 $1538 $1539 reversed $281 $-1 #
+coedge $-1 $1540 $1541 $577 $910 forward $902 $-1 #
+edge $1542 $1543 -104.31902157184561 $917 104.31902157184561 $577 $1544 forward 7 unknown #
+coedge $-1 $1545 $1546 $578 $912 forward $1547 $-1 #
+edge $1548 $916 -104.31902157184561 $1549 104.31902157184561 $578 $1550 forward 7 unknown #
+coedge $-1 $906 $579 $1546 $1551 forward $574 $-1 #
+coedge $-1 $579 $906 $1540 $1552 reversed $574 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $580 #
+vertex $-1 $580 $1553 #
+vertex $-1 $910 $1554 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $582 #
+face $1555 $1556 $1557 $143 $-1 $1558 forward single #
+loop $-1 $-1 $928 $582 #
+plane-surface $-1 0 -104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $1559 $585 $1560 $1561 forward $409 $-1 #
+coedge $-1 $585 $1559 $1562 $1563 forward $409 $-1 #
+coedge $-1 $933 $932 $585 $926 forward $583 $-1 #
+edge $1564 $1565 -43.922899999999998 $1566 43.922899999999998 $585 $1567 forward 7 unknown #
+coedge $-1 $587 $586 $1568 $1569 reversed $285 $-1 #
+coedge $-1 $1570 $1571 $586 $929 forward $921 $-1 #
+edge $1572 $1573 -65.636292552341288 $936 65.636292552341288 $586 $1574 forward 7 unknown #
+coedge $-1 $1575 $1576 $587 $931 forward $1577 $-1 #
+edge $1578 $935 -65.636292552341288 $1579 65.636292552341288 $587 $1580 forward 7 unknown #
+coedge $-1 $925 $588 $1576 $1581 reversed $583 $-1 #
+coedge $-1 $588 $925 $1570 $1582 reversed $583 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $589 #
+vertex $-1 $589 $1583 #
+vertex $-1 $929 $1584 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $591 #
+face $1585 $1586 $1587 $145 $-1 $1588 forward single #
+loop $-1 $-1 $947 $591 #
+plane-surface $-1 0 104.31902157184561 -44.672899999999998 0 -0 -1 -1 0 -0 forward_v I I I I #
+coedge $-1 $1589 $594 $1590 $1591 forward $414 $-1 #
+coedge $-1 $594 $1589 $1592 $1593 forward $414 $-1 #
+coedge $-1 $952 $951 $594 $945 forward $592 $-1 #
+edge $1594 $1595 -43.922899999999998 $1596 43.922899999999998 $594 $1597 forward 7 unknown #
+coedge $-1 $596 $595 $1598 $1599 reversed $289 $-1 #
+coedge $-1 $1600 $1601 $595 $948 forward $940 $-1 #
+edge $1602 $1603 -65.636292552341288 $955 65.636292552341288 $595 $1604 forward 7 unknown #
+coedge $-1 $1605 $1606 $596 $950 forward $1607 $-1 #
+edge $1608 $954 -65.636292552341288 $1609 65.636292552341288 $596 $1610 forward 7 unknown #
+coedge $-1 $944 $597 $1606 $1611 reversed $592 $-1 #
+coedge $-1 $597 $944 $1600 $1612 reversed $592 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $598 #
+vertex $-1 $598 $1613 #
+vertex $-1 $948 $1614 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $600 #
+face $1615 $1616 $1617 $147 $-1 $1618 forward single #
+loop $-1 $-1 $966 $600 #
+plane-surface $-1 0 -104.31902157184561 -44.672899999999998 -0 -1 0 0 -0 -1 forward_v I I I I #
+coedge $-1 $1619 $603 $1620 $1621 reversed $419 $-1 #
+coedge $-1 $603 $1619 $1622 $1623 reversed $419 $-1 #
+coedge $-1 $971 $970 $603 $964 forward $601 $-1 #
+edge $1624 $1625 -104.31902157184561 $1626 104.31902157184561 $603 $1627 forward 7 unknown #
+coedge $-1 $605 $604 $1628 $1629 forward $293 $-1 #
+coedge $-1 $1630 $1631 $604 $967 reversed $959 $-1 #
+edge $1632 $974 -65.636292552341288 $1633 65.636292552341288 $604 $1634 forward 7 unknown #
+coedge $-1 $1635 $1636 $605 $969 reversed $1637 $-1 #
+edge $1638 $1639 -65.636292552341288 $973 65.636292552341288 $605 $1640 forward 7 unknown #
+coedge $-1 $963 $606 $1636 $1641 reversed $601 $-1 #
+coedge $-1 $606 $963 $1630 $1642 reversed $601 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $607 #
+vertex $-1 $607 $1643 #
+vertex $-1 $967 $1644 #
+straight-curve $-1 65.636292552341288 0 -159.8006 0 -1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $609 #
+face $1645 $1646 $1647 $149 $-1 $1648 forward single #
+loop $-1 $-1 $985 $609 #
+plane-surface $-1 0 104.31902157184561 43.172899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1649 $612 $1650 $1651 reversed $424 $-1 #
+coedge $-1 $612 $1649 $1652 $1653 reversed $424 $-1 #
+coedge $-1 $990 $989 $612 $983 forward $610 $-1 #
+edge $1654 $1655 -104.31902157184561 $1656 104.31902157184561 $612 $1657 forward 7 unknown #
+coedge $-1 $614 $613 $1658 $1659 forward $297 $-1 #
+coedge $-1 $1660 $1661 $613 $986 reversed $978 $-1 #
+edge $1662 $993 -65.636292552341288 $1663 65.636292552341288 $613 $1664 forward 7 unknown #
+coedge $-1 $1665 $1666 $614 $988 reversed $1667 $-1 #
+edge $1668 $1669 -65.636292552341288 $992 65.636292552341288 $614 $1670 forward 7 unknown #
+coedge $-1 $982 $615 $1666 $1671 reversed $610 $-1 #
+coedge $-1 $615 $982 $1660 $1672 reversed $610 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $616 #
+vertex $-1 $616 $1673 #
+vertex $-1 $986 $1674 #
+straight-curve $-1 65.636292552341288 0 158.3006 0 1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $618 #
+face $1675 $1676 $1677 $151 $-1 $1678 forward single #
+loop $-1 $-1 $1004 $618 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $1679 $621 $1680 $1681 reversed $429 $-1 #
+coedge $-1 $621 $1679 $1682 $1683 reversed $429 $-1 #
+coedge $-1 $1009 $1008 $621 $1002 forward $619 $-1 #
+edge $1684 $1685 -43.922899999999998 $1686 43.922899999999998 $621 $1687 forward 7 unknown #
+coedge $-1 $623 $622 $1688 $1689 reversed $301 $-1 #
+coedge $-1 $1690 $1691 $622 $1005 reversed $997 $-1 #
+edge $1692 $1012 0 $1693 115.12769999999999 $622 $1694 forward 7 unknown #
+coedge $-1 $1695 $1696 $623 $1007 reversed $1697 $-1 #
+edge $1698 $1699 -115.12769999999999 $1011 -0 $623 $1700 forward 7 unknown #
+coedge $-1 $1001 $624 $1696 $1701 reversed $619 $-1 #
+coedge $-1 $624 $1001 $1690 $1702 reversed $619 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $625 #
+vertex $-1 $625 $1703 #
+vertex $-1 $1005 $1704 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $627 #
+face $1705 $1706 $1707 $153 $-1 $1708 forward single #
+loop $-1 $-1 $1023 $627 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $1709 $630 $1710 $1711 forward $434 $-1 #
+coedge $-1 $630 $1709 $1712 $1713 forward $434 $-1 #
+coedge $-1 $1028 $1027 $630 $1021 reversed $628 $-1 #
+edge $1714 $1715 -43.922899999999998 $1716 43.922899999999998 $630 $1717 forward 7 unknown #
+coedge $-1 $632 $631 $1718 $1719 forward $305 $-1 #
+coedge $-1 $1720 $1721 $631 $1024 forward $1016 $-1 #
+edge $1722 $1723 -115.12769999999999 $1030 -0 $631 $1724 forward 7 unknown #
+coedge $-1 $1725 $1726 $632 $1026 forward $1727 $-1 #
+edge $1728 $1031 0 $1729 115.12769999999999 $632 $1730 forward 7 unknown #
+coedge $-1 $1020 $633 $1726 $1731 reversed $628 $-1 #
+coedge $-1 $633 $1020 $1720 $1732 reversed $628 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $634 #
+vertex $-1 $1024 $1733 #
+vertex $-1 $634 $1734 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $636 #
+face $1735 $1736 $1737 $155 $-1 $1738 forward single #
+loop $-1 $-1 $1042 $636 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 -44.672899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1739 $639 $1740 $1741 forward $439 $-1 #
+coedge $-1 $639 $1739 $1742 $1743 reversed $439 $-1 #
+coedge $-1 $1047 $1046 $639 $1040 forward $637 $-1 #
+edge $1744 $1745 -104.31902157184561 $1746 104.31902157184561 $639 $1747 forward 7 unknown #
+coedge $-1 $641 $640 $1748 $1749 reversed $309 $-1 #
+coedge $-1 $1750 $1751 $640 $1043 reversed $1035 $-1 #
+edge $1752 $1050 0 $1753 115.12769999999999 $640 $1754 forward 7 unknown #
+coedge $-1 $1755 $1756 $641 $1045 forward $1757 $-1 #
+edge $1758 $1049 0 $1759 115.12769999999999 $641 $1760 forward 7 unknown #
+coedge $-1 $1039 $642 $1756 $1761 reversed $637 $-1 #
+coedge $-1 $642 $1039 $1750 $1762 reversed $637 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $643 #
+vertex $-1 $643 $1763 #
+vertex $-1 $1043 $1764 #
+straight-curve $-1 -180.76399255234128 0 -159.8006 0 1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $645 #
+face $1765 $1766 $1767 $157 $-1 $1768 forward single #
+loop $-1 $-1 $1061 $645 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 43.172899999999998 0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1769 $648 $1770 $1771 reversed $444 $-1 #
+coedge $-1 $648 $1769 $1772 $1773 forward $444 $-1 #
+coedge $-1 $1066 $1065 $648 $1059 forward $646 $-1 #
+edge $1774 $1775 -104.31902157184561 $1776 104.31902157184561 $648 $1777 forward 7 unknown #
+coedge $-1 $650 $649 $1778 $1779 reversed $313 $-1 #
+coedge $-1 $1780 $1781 $649 $1062 forward $1054 $-1 #
+edge $1782 $1783 -115.12769999999999 $1069 -0 $649 $1784 forward 7 unknown #
+coedge $-1 $1785 $1786 $650 $1064 reversed $1787 $-1 #
+edge $1788 $1789 -115.12769999999999 $1068 -0 $650 $1790 forward 7 unknown #
+coedge $-1 $1058 $651 $1786 $1791 reversed $646 $-1 #
+coedge $-1 $651 $1058 $1780 $1792 reversed $646 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $652 #
+vertex $-1 $652 $1793 #
+vertex $-1 $1062 $1794 #
+straight-curve $-1 -180.76399255234128 0 158.3006 0 -1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $654 #
+face $1795 $1796 $1797 $159 $-1 $1798 forward single #
+loop $-1 $-1 $1080 $654 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $1799 $657 $1800 $1801 forward $449 $-1 #
+coedge $-1 $657 $1799 $1802 $1803 reversed $449 $-1 #
+coedge $-1 $1085 $1084 $657 $1078 reversed $655 $-1 #
+edge $1804 $1805 -43.922899999999998 $1806 43.922899999999998 $657 $1807 forward 7 unknown #
+coedge $-1 $659 $658 $1808 $1809 forward $317 $-1 #
+coedge $-1 $1810 $1811 $658 $1081 reversed $1073 $-1 #
+edge $1812 $1087 0 $1813 115.12769999999999 $658 $1814 forward 7 unknown #
+coedge $-1 $1815 $1816 $659 $1083 forward $1817 $-1 #
+edge $1818 $1088 0 $1819 115.12769999999999 $659 $1820 forward 7 unknown #
+coedge $-1 $1077 $660 $1816 $1821 reversed $655 $-1 #
+coedge $-1 $660 $1077 $1810 $1822 reversed $655 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $661 #
+vertex $-1 $1081 $1823 #
+vertex $-1 $661 $1824 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $663 #
+face $1825 $1826 $1827 $161 $-1 $1828 forward single #
+loop $-1 $-1 $1099 $663 #
+plane-surface $-1 123.20014255234128 104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $1829 $666 $1830 $1831 reversed $454 $-1 #
+coedge $-1 $666 $1829 $1832 $1833 reversed $454 $-1 #
+coedge $-1 $1104 $1103 $666 $1097 forward $664 $-1 #
+edge $1834 $1835 -43.922899999999998 $1836 43.922899999999998 $666 $1837 forward 7 unknown #
+coedge $-1 $668 $667 $1838 $1839 reversed $321 $-1 #
+coedge $-1 $1840 $1841 $667 $1100 reversed $1092 $-1 #
+edge $1842 $1107 0 $1843 115.12769999999999 $667 $1844 forward 7 unknown #
+coedge $-1 $1845 $1846 $668 $1102 reversed $1847 $-1 #
+edge $1848 $1849 -115.12769999999999 $1106 0 $668 $1850 forward 7 unknown #
+coedge $-1 $1096 $669 $1846 $1851 reversed $664 $-1 #
+coedge $-1 $669 $1096 $1840 $1852 reversed $664 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $670 #
+vertex $-1 $670 $1853 #
+vertex $-1 $1100 $1854 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $672 #
+face $1855 $1856 $1857 $163 $-1 $1858 forward single #
+loop $-1 $-1 $1118 $672 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 -44.672899999999998 -0 -1 0 0 -0 -1 forward_v I I I I #
+coedge $-1 $1859 $675 $1860 $1861 forward $459 $-1 #
+coedge $-1 $675 $1859 $1862 $1863 reversed $459 $-1 #
+coedge $-1 $1123 $1122 $675 $1116 forward $673 $-1 #
+edge $1864 $1865 -104.31902157184561 $1866 104.31902157184561 $675 $1867 forward 7 unknown #
+coedge $-1 $677 $676 $1868 $1869 reversed $325 $-1 #
+coedge $-1 $1870 $1871 $676 $1119 reversed $1111 $-1 #
+edge $1872 $1126 0 $1873 115.12769999999999 $676 $1874 forward 7 unknown #
+coedge $-1 $1875 $1876 $677 $1121 forward $1877 $-1 #
+edge $1878 $1125 0 $1879 115.12769999999999 $677 $1880 forward 7 unknown #
+coedge $-1 $1115 $678 $1876 $1881 reversed $673 $-1 #
+coedge $-1 $678 $1115 $1870 $1882 reversed $673 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $679 #
+vertex $-1 $679 $1883 #
+vertex $-1 $1119 $1884 #
+straight-curve $-1 180.76399255234128 0 -159.8006 0 -1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $681 #
+face $1885 $1886 $1887 $165 $-1 $1888 forward single #
+loop $-1 $-1 $1137 $681 #
+plane-surface $-1 123.20014255234128 104.31902157184561 43.172899999999998 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $1889 $684 $1890 $1891 forward $464 $-1 #
+coedge $-1 $684 $1889 $1892 $1893 forward $464 $-1 #
+coedge $-1 $1142 $1141 $684 $1135 forward $682 $-1 #
+edge $1894 $1895 -104.31902157184561 $1896 104.31902157184561 $684 $1897 forward 7 unknown #
+coedge $-1 $686 $685 $1898 $1899 reversed $329 $-1 #
+coedge $-1 $1900 $1901 $685 $1138 forward $1130 $-1 #
+edge $1902 $1903 -115.12769999999999 $1145 0 $685 $1904 forward 7 unknown #
+coedge $-1 $1905 $1906 $686 $1140 forward $1907 $-1 #
+edge $1908 $1144 0 $1909 115.12769999999999 $686 $1910 forward 7 unknown #
+coedge $-1 $1134 $687 $1906 $1911 reversed $682 $-1 #
+coedge $-1 $687 $1134 $1900 $1912 reversed $682 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $688 #
+vertex $-1 $688 $1913 #
+vertex $-1 $1138 $1914 #
+straight-curve $-1 180.76399255234128 0 158.3006 0 1 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $690 #
+face $1915 $1916 $1917 $167 $-1 $1918 forward single #
+loop $-1 $-1 $1156 $690 #
+plane-surface $-1 -65.636292552341288 -161.88287157184561 -44.672899999999998 -1 -0 0 0 -0 1 forward_v I I I I #
+coedge $-1 $1919 $693 $1920 $1921 reversed $469 $-1 #
+coedge $-1 $693 $1919 $1922 $1923 reversed $469 $-1 #
+coedge $-1 $1161 $1160 $693 $1154 forward $691 $-1 #
+edge $1924 $1925 -65.636292552341288 $1926 65.636292552341288 $693 $1927 forward 7 unknown #
+coedge $-1 $695 $694 $1928 $1929 reversed $333 $-1 #
+coedge $-1 $1930 $1931 $694 $1157 reversed $1149 $-1 #
+edge $1932 $1164 0 $1933 115.1277 $694 $1934 forward 7 unknown #
+coedge $-1 $1935 $1936 $695 $1159 reversed $1937 $-1 #
+edge $1938 $1939 -115.1277 $1163 -0 $695 $1940 forward 7 unknown #
+coedge $-1 $1153 $696 $1936 $1941 reversed $691 $-1 #
+coedge $-1 $696 $1153 $1930 $1942 reversed $691 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $697 #
+vertex $-1 $697 $1943 #
+vertex $-1 $1157 $1944 #
+straight-curve $-1 0 -219.44672157184561 -159.8006 -1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $699 #
+face $1945 $1946 $1947 $169 $-1 $1948 forward single #
+loop $-1 $-1 $1175 $699 #
+plane-surface $-1 65.636292552341288 -161.88287157184561 43.172899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1949 $702 $1950 $1951 reversed $474 $-1 #
+coedge $-1 $702 $1949 $1952 $1953 reversed $474 $-1 #
+coedge $-1 $1180 $1179 $702 $1173 forward $700 $-1 #
+edge $1954 $1955 -65.636292552341288 $1956 65.636292552341288 $702 $1957 forward 7 unknown #
+coedge $-1 $704 $703 $1958 $1959 reversed $337 $-1 #
+coedge $-1 $1960 $1961 $703 $1176 reversed $1168 $-1 #
+edge $1962 $1183 0 $1963 115.1277 $703 $1964 forward 7 unknown #
+coedge $-1 $1965 $1966 $704 $1178 reversed $1967 $-1 #
+edge $1968 $1969 -115.1277 $1182 -0 $704 $1970 forward 7 unknown #
+coedge $-1 $1172 $705 $1966 $1971 reversed $700 $-1 #
+coedge $-1 $705 $1172 $1960 $1972 reversed $700 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $706 #
+vertex $-1 $706 $1973 #
+vertex $-1 $1176 $1974 #
+straight-curve $-1 0 -219.44672157184561 158.3006 1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $708 #
+face $1975 $1976 $1977 $171 $-1 $1978 forward single #
+loop $-1 $-1 $1194 $708 #
+plane-surface $-1 65.636292552341288 161.88287157184561 -44.672899999999998 1 0 -0 -0 0 -1 forward_v I I I I #
+coedge $-1 $1979 $711 $1980 $1981 forward $479 $-1 #
+coedge $-1 $711 $1979 $1982 $1983 reversed $479 $-1 #
+coedge $-1 $1199 $1198 $711 $1192 forward $709 $-1 #
+edge $1984 $1985 -65.636292552341288 $1986 65.636292552341288 $711 $1987 forward 7 unknown #
+coedge $-1 $713 $712 $1988 $1989 reversed $341 $-1 #
+coedge $-1 $1990 $1991 $712 $1195 reversed $1187 $-1 #
+edge $1992 $1202 0 $1993 115.1277 $712 $1994 forward 7 unknown #
+coedge $-1 $1995 $1996 $713 $1197 forward $1997 $-1 #
+edge $1998 $1201 0 $1999 115.1277 $713 $2000 forward 7 unknown #
+coedge $-1 $1191 $714 $1996 $2001 reversed $709 $-1 #
+coedge $-1 $714 $1191 $1990 $2002 reversed $709 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $715 #
+vertex $-1 $715 $2003 #
+vertex $-1 $1195 $2004 #
+straight-curve $-1 0 219.44672157184561 -159.8006 1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $717 #
+face $2005 $2006 $2007 $173 $-1 $2008 forward single #
+loop $-1 $-1 $1213 $717 #
+plane-surface $-1 -65.636292552341288 161.88287157184561 43.172899999999998 -1 -0 0 0 -0 1 forward_v I I I I #
+coedge $-1 $2009 $720 $2010 $2011 reversed $484 $-1 #
+coedge $-1 $720 $2009 $2012 $2013 forward $484 $-1 #
+coedge $-1 $1218 $1217 $720 $1211 forward $718 $-1 #
+edge $2014 $2015 -65.636292552341288 $2016 65.636292552341288 $720 $2017 forward 7 unknown #
+coedge $-1 $722 $721 $2018 $2019 reversed $345 $-1 #
+coedge $-1 $2020 $2021 $721 $1214 forward $1206 $-1 #
+edge $2022 $2023 -115.1277 $1221 0 $721 $2024 forward 7 unknown #
+coedge $-1 $2025 $2026 $722 $1216 reversed $2027 $-1 #
+edge $2028 $2029 -115.1277 $1220 0 $722 $2030 forward 7 unknown #
+coedge $-1 $1210 $723 $2026 $2031 reversed $718 $-1 #
+coedge $-1 $723 $1210 $2020 $2032 reversed $718 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $724 #
+vertex $-1 $724 $2033 #
+vertex $-1 $1214 $2034 #
+straight-curve $-1 0 219.44672157184561 158.3006 -1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $726 #
+face $2035 $2036 $2037 $175 $-1 $2038 forward single #
+loop $-1 $-1 $1232 $726 #
+plane-surface $-1 -180.76399255234128 -161.88287157184561 -44.672899999999998 -1 -0 0 0 -0 1 forward_v I I I I #
+coedge $-1 $2039 $729 $2040 $2041 reversed $489 $-1 #
+coedge $-1 $729 $2039 $2042 $2043 reversed $489 $-1 #
+coedge $-1 $1237 $1236 $729 $1230 reversed $727 $-1 #
+edge $2044 $2045 0 $2046 115.12769999999999 $729 $2047 forward 7 unknown #
+coedge $-1 $731 $730 $2048 $2049 forward $349 $-1 #
+coedge $-1 $2050 $2051 $730 $1233 reversed $1225 $-1 #
+edge $2052 $1239 0 $2053 115.1277 $730 $2054 forward 7 unknown #
+coedge $-1 $2055 $2056 $731 $1235 reversed $2057 $-1 #
+edge $2058 $2059 -115.1277 $1240 -0 $731 $2060 forward 7 unknown #
+coedge $-1 $1229 $732 $2056 $2061 reversed $727 $-1 #
+coedge $-1 $732 $1229 $2050 $2062 reversed $727 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $733 #
+vertex $-1 $1233 $2063 #
+vertex $-1 $733 $2064 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -159.8006 1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $735 #
+face $2065 $2066 $2067 $177 $-1 $2068 forward single #
+loop $-1 $-1 $1251 $735 #
+plane-surface $-1 -65.636292552341288 -161.88287157184561 43.172899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2069 $738 $2070 $2071 reversed $494 $-1 #
+coedge $-1 $738 $2069 $2072 $2073 reversed $494 $-1 #
+coedge $-1 $1256 $1255 $738 $1249 reversed $736 $-1 #
+edge $2074 $2075 -115.12769999999999 $2076 -0 $738 $2077 forward 7 unknown #
+coedge $-1 $740 $739 $2078 $2079 forward $353 $-1 #
+coedge $-1 $2080 $2081 $739 $1252 reversed $1244 $-1 #
+edge $2082 $1258 0 $2083 115.1277 $739 $2084 forward 7 unknown #
+coedge $-1 $2085 $2086 $740 $1254 reversed $2087 $-1 #
+edge $2088 $2089 -115.1277 $1259 -0 $740 $2090 forward 7 unknown #
+coedge $-1 $1248 $741 $2086 $2091 reversed $736 $-1 #
+coedge $-1 $741 $1248 $2080 $2092 reversed $736 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $742 #
+vertex $-1 $1252 $2093 #
+vertex $-1 $742 $2094 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 158.3006 -1 -0 -0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $744 #
+face $2095 $2096 $2097 $179 $-1 $2098 forward single #
+loop $-1 $-1 $1270 $744 #
+plane-surface $-1 -65.636292552341288 161.88287157184561 -44.672899999999998 1 0 -0 -0 0 -1 forward_v I I I I #
+coedge $-1 $2099 $747 $2100 $2101 reversed $499 $-1 #
+coedge $-1 $747 $2099 $2102 $2103 reversed $499 $-1 #
+coedge $-1 $1275 $1274 $747 $1268 forward $745 $-1 #
+edge $2104 $2105 0 $2106 115.12769999999999 $747 $2107 forward 7 unknown #
+coedge $-1 $749 $748 $2108 $2109 reversed $357 $-1 #
+coedge $-1 $2110 $2111 $748 $1271 reversed $1263 $-1 #
+edge $2112 $1278 0 $2113 115.1277 $748 $2114 forward 7 unknown #
+coedge $-1 $2115 $2116 $749 $1273 reversed $2117 $-1 #
+edge $2118 $2119 -115.1277 $1277 0 $749 $2120 forward 7 unknown #
+coedge $-1 $1267 $750 $2116 $2121 reversed $745 $-1 #
+coedge $-1 $750 $1267 $2110 $2122 reversed $745 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $751 #
+vertex $-1 $751 $2123 #
+vertex $-1 $1271 $2124 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -159.8006 1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $753 #
+face $2125 $2126 $2127 $181 $-1 $2128 forward single #
+loop $-1 $-1 $1289 $753 #
+plane-surface $-1 -180.76399255234128 161.88287157184561 43.172899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $2129 $756 $2130 $2131 reversed $504 $-1 #
+coedge $-1 $756 $2129 $2132 $2133 reversed $504 $-1 #
+coedge $-1 $1294 $1293 $756 $1287 forward $754 $-1 #
+edge $2134 $2135 -115.12769999999999 $2136 -0 $756 $2137 forward 7 unknown #
+coedge $-1 $758 $757 $2138 $2139 reversed $361 $-1 #
+coedge $-1 $2140 $2141 $757 $1290 reversed $1282 $-1 #
+edge $2142 $1297 0 $2143 115.1277 $757 $2144 forward 7 unknown #
+coedge $-1 $2145 $2146 $758 $1292 reversed $2147 $-1 #
+edge $2148 $2149 -115.1277 $1296 0 $758 $2150 forward 7 unknown #
+coedge $-1 $1286 $759 $2146 $2151 reversed $754 $-1 #
+coedge $-1 $759 $1286 $2140 $2152 reversed $754 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $760 #
+vertex $-1 $760 $2153 #
+vertex $-1 $1290 $2154 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 158.3006 -1 -0 -0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $762 #
+face $2155 $2156 $2157 $183 $-1 $2158 forward single #
+loop $-1 $-1 $1308 $762 #
+plane-surface $-1 65.636292552341288 -161.88287157184561 -44.672899999999998 -1 -0 0 0 -0 1 forward_v I I I I #
+coedge $-1 $2159 $765 $2160 $2161 reversed $509 $-1 #
+coedge $-1 $765 $2159 $2162 $2163 reversed $509 $-1 #
+coedge $-1 $1313 $1312 $765 $1306 forward $763 $-1 #
+edge $2164 $2165 0 $2166 115.12769999999999 $765 $2167 forward 7 unknown #
+coedge $-1 $767 $766 $2168 $2169 reversed $365 $-1 #
+coedge $-1 $2170 $2171 $766 $1309 reversed $1301 $-1 #
+edge $2172 $1316 0 $2173 115.1277 $766 $2174 forward 7 unknown #
+coedge $-1 $2175 $2176 $767 $1311 reversed $2177 $-1 #
+edge $2178 $2179 -115.1277 $1315 -0 $767 $2180 forward 7 unknown #
+coedge $-1 $1305 $768 $2176 $2181 reversed $763 $-1 #
+coedge $-1 $768 $1305 $2170 $2182 reversed $763 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $769 #
+vertex $-1 $769 $2183 #
+vertex $-1 $1309 $2184 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -159.8006 -1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $771 #
+face $2185 $2186 $2187 $185 $-1 $2188 forward single #
+loop $-1 $-1 $1327 $771 #
+plane-surface $-1 180.76399255234128 -161.88287157184561 43.172899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2189 $774 $2190 $2191 reversed $514 $-1 #
+coedge $-1 $774 $2189 $2192 $2193 reversed $514 $-1 #
+coedge $-1 $1332 $1331 $774 $1325 reversed $772 $-1 #
+edge $2194 $2195 0 $2196 115.12769999999999 $774 $2197 forward 7 unknown #
+coedge $-1 $776 $775 $2198 $2199 forward $369 $-1 #
+coedge $-1 $2200 $2201 $775 $1328 reversed $1320 $-1 #
+edge $2202 $1334 0 $2203 115.1277 $775 $2204 forward 7 unknown #
+coedge $-1 $2205 $2206 $776 $1330 reversed $2207 $-1 #
+edge $2208 $2209 -115.1277 $1335 -0 $776 $2210 forward 7 unknown #
+coedge $-1 $1324 $777 $2206 $2211 reversed $772 $-1 #
+coedge $-1 $777 $1324 $2200 $2212 reversed $772 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $778 #
+vertex $-1 $1328 $2213 #
+vertex $-1 $778 $2214 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 158.3006 -1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $780 #
+face $2215 $2216 $2217 $187 $-1 $2218 forward single #
+loop $-1 $-1 $1346 $780 #
+plane-surface $-1 180.76399255234128 161.88287157184561 -44.672899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2219 $783 $2220 $2221 reversed $519 $-1 #
+coedge $-1 $783 $2219 $2222 $2223 reversed $519 $-1 #
+coedge $-1 $1351 $1350 $783 $1344 reversed $781 $-1 #
+edge $2224 $2225 0 $2226 115.12769999999999 $783 $2227 forward 7 unknown #
+coedge $-1 $785 $784 $2228 $2229 forward $373 $-1 #
+coedge $-1 $2230 $2231 $784 $1347 reversed $1339 $-1 #
+edge $2232 $1353 0 $2233 115.1277 $784 $2234 forward 7 unknown #
+coedge $-1 $2235 $2236 $785 $1349 reversed $2237 $-1 #
+edge $2238 $2239 -115.1277 $1354 0 $785 $2240 forward 7 unknown #
+coedge $-1 $1343 $786 $2236 $2241 reversed $781 $-1 #
+coedge $-1 $786 $1343 $2230 $2242 reversed $781 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $787 #
+vertex $-1 $1347 $2243 #
+vertex $-1 $787 $2244 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -159.8006 -1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $789 #
+face $2245 $2246 $2247 $189 $-1 $2248 forward single #
+loop $-1 $-1 $1365 $789 #
+plane-surface $-1 65.636292552341288 161.88287157184561 43.172899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $2249 $792 $2250 $2251 reversed $524 $-1 #
+coedge $-1 $792 $2249 $2252 $2253 reversed $524 $-1 #
+coedge $-1 $1370 $1369 $792 $1363 reversed $790 $-1 #
+edge $2254 $2255 -115.12769999999999 $2256 0 $792 $2257 forward 7 unknown #
+coedge $-1 $794 $793 $2258 $2259 forward $377 $-1 #
+coedge $-1 $2260 $2261 $793 $1366 reversed $1358 $-1 #
+edge $2262 $1372 0 $2263 115.1277 $793 $2264 forward 7 unknown #
+coedge $-1 $2265 $2266 $794 $1368 reversed $2267 $-1 #
+edge $2268 $2269 -115.1277 $1373 0 $794 $2270 forward 7 unknown #
+coedge $-1 $1362 $795 $2266 $2271 reversed $790 $-1 #
+coedge $-1 $795 $1362 $2260 $2272 reversed $790 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $796 #
+vertex $-1 $1366 $2273 #
+vertex $-1 $796 $2274 #
+straight-curve $-1 180.76399255234128 219.44672157184561 158.3006 1 0 0 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $798 #
+face $2275 $-1 $813 $127 $-1 $2276 reversed single #
+loop $-1 $-1 $1393 $798 #
+plane-surface $-1 0 61.146121571845605 -0.75 0 -1 0 0 0 -1 forward_v I I I I #
+coedge $-1 $2277 $1391 $1394 $2278 forward $799 $-1 #
+coedge $-1 $1398 $801 $802 $1384 reversed $529 $-1 #
+coedge $-1 $1391 $2277 $801 $1382 reversed $799 $-1 #
+edge $2279 $1400 -0.75 $2280 0.75 $1381 $2281 forward 7 unknown #
+coedge $-1 $803 $802 $2277 $2282 forward $381 $-1 #
+edge $2283 $1389 -22.463392552341301 $2280 22.463392552341301 $1380 $2284 forward 7 unknown #
+coedge $-1 $1394 $1393 $803 $1386 reversed $1377 $-1 #
+edge $2285 $2286 -22.463392552341301 $1388 22.463392552341301 $1385 $2287 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $805 #
+vertex $-1 $805 $2288 #
+vertex $-1 $1402 $2289 #
+straight-curve $-1 22.463392552341301 0 -1.5 0 -1 0 I I #
+coedge $-1 $1379 $1381 $806 $1392 reversed $799 $-1 #
+edge $2290 $1396 -61.146121571845605 $1400 61.146121571845605 $1391 $2291 forward 7 unknown #
+coedge $-1 $1385 $807 $812 $1403 forward $1377 $-1 #
+coedge $-1 $807 $1385 $1379 $2278 reversed $1377 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $808 #
+vertex $-1 $808 $2292 #
+straight-curve $-1 0 61.146121571845605 0 -1 0 0 I I #
+coedge $-1 $809 $1380 $811 $1402 reversed $529 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $810 #
+vertex $-1 $1392 $2293 #
+straight-curve $-1 0 -61.146121571845605 0 1 0 0 I I #
+edge $2294 $815 -0.75 $1389 0.75 $811 $2295 forward 7 unknown #
+edge $2296 $816 -0.75 $1388 0.75 $812 $2297 forward 7 unknown #
+point $-1 22.463392552341301 -61.146121571845605 0 #
+point $-1 22.463392552341301 61.146121571845605 0 #
+edge $2298 $1411 0 $1408 3 $818 $2299 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $819 #
+vertex $-1 $819 $2300 #
+straight-curve $-1 22.463392552341301 61.146121571845605 0 -0.33157957872420796 -0.94342725367305169 0 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $820 #
+vertex $-1 $820 $2301 #
+straight-curve $-1 -22.463392552341301 61.146121571845605 0 0.33157957872420796 -0.94342725367305169 0 I I #
+point $-1 -22.463392552341301 61.146121571845605 0 #
+point $-1 22.463392552341301 61.146121571845605 0 #
+edge $2302 $1420 0 $1417 3 $825 $2303 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $826 #
+vertex $-1 $826 $2304 #
+straight-curve $-1 -22.463392552341308 -61.146121571845605 0 0.33157957872420801 0.94342725367305158 0 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $827 #
+vertex $-1 $827 $2305 #
+straight-curve $-1 22.463392552341293 -61.146121571845605 0 -0.33157957872420779 0.94342725367305158 0 I I #
+point $-1 22.463392552341293 -61.146121571845605 0 #
+point $-1 -22.463392552341308 -61.146121571845605 0 #
+edge $2306 $1426 0 $1429 3 $832 $2307 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $833 #
+vertex $-1 $833 $2308 #
+straight-curve $-1 1.5 -1.5 0 0 1 0 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $834 #
+vertex $-1 $1424 $2309 #
+straight-curve $-1 -1.5 1.5 0 0 -1 0 I I #
+point $-1 -1.5 -1.5 0 #
+point $-1 1.5 -1.5 0 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $840 #
+face $2310 $-1 $855 $135 $-1 $2311 reversed single #
+loop $-1 $-1 $1451 $840 #
+plane-surface $-1 0 104.31902157184561 -0.75 0 -1 0 0 0 -1 forward_v I I I I #
+coedge $-1 $2312 $1449 $1452 $2313 forward $841 $-1 #
+coedge $-1 $1456 $843 $844 $1442 reversed $547 $-1 #
+coedge $-1 $1449 $2312 $843 $1440 reversed $841 $-1 #
+edge $2314 $1458 -43.922899999999998 $2315 43.922899999999998 $1439 $2316 forward 7 unknown #
+coedge $-1 $845 $844 $2312 $2317 forward $389 $-1 #
+edge $2318 $1447 -65.636292552341288 $2315 65.636292552341288 $1438 $2319 forward 7 unknown #
+coedge $-1 $1452 $1451 $845 $1444 reversed $1435 $-1 #
+edge $2320 $2321 -65.636292552341288 $1446 65.636292552341288 $1443 $2322 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $847 #
+vertex $-1 $847 $2323 #
+vertex $-1 $1460 $2324 #
+straight-curve $-1 65.636292552341288 0 -44.672899999999998 0 -1 0 I I #
+coedge $-1 $1437 $1439 $848 $1450 reversed $841 $-1 #
+edge $2325 $1454 -104.31902157184561 $1458 104.31902157184561 $1449 $2326 forward 7 unknown #
+coedge $-1 $1443 $849 $854 $1461 forward $1435 $-1 #
+coedge $-1 $849 $1443 $1437 $2313 reversed $1435 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $850 #
+vertex $-1 $850 $2327 #
+straight-curve $-1 0 104.31902157184561 43.172899999999998 -1 0 0 I I #
+coedge $-1 $851 $1438 $853 $1460 reversed $547 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $852 #
+vertex $-1 $1450 $2328 #
+straight-curve $-1 0 -104.31902157184561 43.172899999999998 1 0 0 I I #
+edge $2329 $857 -43.922899999999998 $1447 43.922899999999998 $853 $2330 forward 7 unknown #
+edge $2331 $858 -43.922899999999998 $1446 43.922899999999998 $854 $2332 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $861 #
+face $2333 $-1 $876 $137 $-1 $2334 reversed single #
+loop $-1 $-1 $1482 $861 #
+plane-surface $-1 0 95.684421571845604 -0.75 0 -1 0 0 0 -1 forward_v I I I I #
+coedge $-1 $2335 $1480 $1483 $2336 forward $862 $-1 #
+coedge $-1 $1487 $864 $865 $1473 reversed $556 $-1 #
+coedge $-1 $1480 $2335 $864 $1471 reversed $862 $-1 #
+edge $2337 $1489 -35.2883 $2338 35.2883 $1470 $2339 forward 7 unknown #
+coedge $-1 $866 $865 $2335 $2340 forward $394 $-1 #
+edge $2341 $1478 -57.001692552341304 $2338 57.001692552341304 $1469 $2342 forward 7 unknown #
+coedge $-1 $1483 $1482 $866 $1475 reversed $1466 $-1 #
+edge $2343 $2344 -57.001692552341304 $1477 57.001692552341304 $1474 $2345 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $868 #
+vertex $-1 $868 $2346 #
+vertex $-1 $1491 $2347 #
+straight-curve $-1 57.001692552341304 0 -36.0383 0 -1 0 I I #
+coedge $-1 $1468 $1470 $869 $1481 reversed $862 $-1 #
+edge $2348 $1485 -95.684421571845604 $1489 95.684421571845604 $1480 $2349 forward 7 unknown #
+coedge $-1 $1474 $870 $875 $1492 forward $1466 $-1 #
+coedge $-1 $870 $1474 $1468 $2336 reversed $1466 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $871 #
+vertex $-1 $871 $2350 #
+straight-curve $-1 0 95.684421571845604 34.5383 -1 0 0 I I #
+coedge $-1 $872 $1469 $874 $1491 reversed $556 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $873 #
+vertex $-1 $1481 $2351 #
+straight-curve $-1 0 -95.684421571845604 34.5383 1 0 0 I I #
+edge $2352 $878 -35.2883 $1478 35.2883 $874 $2353 forward 7 unknown #
+edge $2354 $879 -35.2883 $1477 35.2883 $875 $2355 forward 7 unknown #
+point $-1 57.001692552341304 -95.684421571845604 34.5383 #
+point $-1 57.001692552341304 95.684421571845604 34.5383 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $882 #
+face $2356 $-1 $1517 $139 $-1 $2357 forward single #
+loop $-1 $-1 $1508 $882 #
+plane-surface $-1 -65.636292552341288 -104.31902157184561 -0.75 0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $886 $885 $2358 $2359 forward $399 $-1 #
+coedge $-1 $1516 $1515 $885 $1501 reversed $1517 $-1 #
+edge $2360 $1505 -104.31902157184561 $2361 104.31902157184561 $885 $2362 forward 7 unknown #
+coedge $-1 $1511 $1510 $886 $1503 reversed $883 $-1 #
+edge $2363 $2364 -104.31902157184561 $1506 104.31902157184561 $886 $2365 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $888 #
+vertex $-1 $1501 $2366 #
+vertex $-1 $888 $2367 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2368 $2369 $889 $1509 forward $1497 $-1 #
+edge $2370 $1519 -43.922899999999998 $1513 43.922899999999998 $889 $2371 forward 7 unknown #
+coedge $-1 $1502 $890 $895 $1522 forward $883 $-1 #
+coedge $-1 $890 $1502 $2368 $2372 reversed $883 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $891 #
+vertex $-1 $1509 $2373 #
+straight-curve $-1 -180.76399255234128 0 -44.672899999999998 0 1 0 I I #
+coedge $-1 $1500 $892 $2369 $2374 reversed $1517 $-1 #
+coedge $-1 $892 $1500 $894 $1521 forward $1517 $-1 #
+loop $-1 $-1 $892 $1496 #
+ptlist-eye-attrib $-1 $-1 $-1 $893 #
+vertex $-1 $893 $2375 #
+straight-curve $-1 -180.76399255234128 0 43.172899999999998 0 -1 0 I I #
+edge $2376 $1505 -115.12769999999999 $897 -0 $1516 $2377 forward 7 unknown #
+edge $2378 $898 0 $1506 115.12769999999999 $1510 $2379 forward 7 unknown #
+point $-1 -180.76399255234128 104.31902157184561 43.172899999999998 #
+point $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $901 #
+face $2380 $-1 $1547 $141 $-1 $2381 forward single #
+loop $-1 $-1 $1538 $901 #
+plane-surface $-1 65.636292552341288 104.31902157184561 -0.75 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $905 $904 $2382 $2383 forward $404 $-1 #
+coedge $-1 $1546 $1545 $904 $1531 reversed $1547 $-1 #
+edge $2384 $1535 -104.31902157184561 $2385 104.31902157184561 $904 $2386 forward 7 unknown #
+coedge $-1 $1541 $1540 $905 $1533 reversed $902 $-1 #
+edge $2387 $2388 -104.31902157184561 $1536 104.31902157184561 $905 $2389 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $907 #
+vertex $-1 $1531 $2390 #
+vertex $-1 $907 $2391 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2392 $2393 $908 $1539 forward $1527 $-1 #
+edge $2394 $1549 -43.922899999999998 $1543 43.922899999999998 $908 $2395 forward 7 unknown #
+coedge $-1 $1532 $909 $914 $1552 forward $902 $-1 #
+coedge $-1 $909 $1532 $2392 $2396 reversed $902 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $910 #
+vertex $-1 $1539 $2397 #
+straight-curve $-1 180.76399255234128 0 -44.672899999999998 0 -1 0 I I #
+coedge $-1 $1530 $911 $2393 $2398 reversed $1547 $-1 #
+coedge $-1 $911 $1530 $913 $1551 reversed $1547 $-1 #
+loop $-1 $-1 $911 $1526 #
+ptlist-eye-attrib $-1 $-1 $-1 $912 #
+vertex $-1 $912 $2399 #
+straight-curve $-1 180.76399255234128 0 43.172899999999998 0 1 0 I I #
+edge $2400 $916 0 $1535 115.12769999999999 $913 $2401 forward 7 unknown #
+edge $2402 $917 0 $1536 115.12769999999999 $1540 $2403 forward 7 unknown #
+point $-1 180.76399255234128 -104.31902157184561 43.172899999999998 #
+point $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $920 #
+face $2404 $-1 $1577 $143 $-1 $2405 forward single #
+loop $-1 $-1 $1568 $920 #
+plane-surface $-1 65.636292552341288 -104.31902157184561 -0.75 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $924 $923 $2406 $2407 forward $409 $-1 #
+coedge $-1 $1576 $1575 $923 $1561 reversed $1577 $-1 #
+edge $2408 $1565 -65.636292552341288 $2409 65.636292552341288 $923 $2410 forward 7 unknown #
+coedge $-1 $1571 $1570 $924 $1563 reversed $921 $-1 #
+edge $2411 $2412 -65.636292552341288 $1566 65.636292552341288 $924 $2413 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $926 #
+vertex $-1 $1561 $2414 #
+vertex $-1 $926 $2415 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2416 $2417 $927 $1569 forward $1557 $-1 #
+edge $2418 $1579 -43.922899999999998 $1573 43.922899999999998 $927 $2419 forward 7 unknown #
+coedge $-1 $1562 $928 $933 $1582 forward $921 $-1 #
+coedge $-1 $928 $1562 $2416 $2420 forward $921 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $929 #
+vertex $-1 $1569 $2421 #
+straight-curve $-1 0 -219.44672157184561 -44.672899999999998 -1 0 0 I I #
+coedge $-1 $1560 $930 $2417 $2422 forward $1577 $-1 #
+coedge $-1 $930 $1560 $932 $1581 forward $1577 $-1 #
+loop $-1 $-1 $930 $1556 #
+ptlist-eye-attrib $-1 $-1 $-1 $931 #
+vertex $-1 $931 $2423 #
+straight-curve $-1 0 -219.44672157184561 43.172899999999998 1 0 0 I I #
+edge $2424 $1565 -115.1277 $935 -0 $1576 $2425 forward 7 unknown #
+edge $2426 $936 0 $1566 115.1277 $1570 $2427 forward 7 unknown #
+point $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 #
+point $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $939 #
+face $2428 $-1 $1607 $145 $-1 $2429 forward single #
+loop $-1 $-1 $1598 $939 #
+plane-surface $-1 -65.636292552341288 104.31902157184561 -0.75 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $943 $942 $2430 $2431 forward $414 $-1 #
+coedge $-1 $1606 $1605 $942 $1591 reversed $1607 $-1 #
+edge $2432 $1595 -65.636292552341288 $2433 65.636292552341288 $942 $2434 forward 7 unknown #
+coedge $-1 $1601 $1600 $943 $1593 reversed $940 $-1 #
+edge $2435 $2436 -65.636292552341288 $1596 65.636292552341288 $943 $2437 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $945 #
+vertex $-1 $1591 $2438 #
+vertex $-1 $945 $2439 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2440 $2441 $946 $1599 forward $1587 $-1 #
+edge $2442 $1609 -43.922899999999998 $1603 43.922899999999998 $946 $2443 forward 7 unknown #
+coedge $-1 $1592 $947 $952 $1612 forward $940 $-1 #
+coedge $-1 $947 $1592 $2440 $2444 reversed $940 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $948 #
+vertex $-1 $1599 $2445 #
+straight-curve $-1 0 219.44672157184561 -44.672899999999998 1 0 0 I I #
+coedge $-1 $1590 $949 $2441 $2446 reversed $1607 $-1 #
+coedge $-1 $949 $1590 $951 $1611 forward $1607 $-1 #
+loop $-1 $-1 $949 $1586 #
+ptlist-eye-attrib $-1 $-1 $-1 $950 #
+vertex $-1 $950 $2447 #
+straight-curve $-1 0 219.44672157184561 43.172899999999998 -1 0 0 I I #
+edge $2448 $1595 -115.1277 $954 0 $1606 $2449 forward 7 unknown #
+edge $2450 $955 0 $1596 115.1277 $1600 $2451 forward 7 unknown #
+point $-1 65.636292552341288 219.44672157184561 43.172899999999998 #
+point $-1 65.636292552341288 219.44672157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $958 #
+face $2452 $-1 $1637 $147 $-1 $2453 forward single #
+loop $-1 $-1 $1628 $958 #
+plane-surface $-1 -65.636292552341288 0 -44.672899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $962 $961 $2454 $2455 reversed $419 $-1 #
+coedge $-1 $1636 $1635 $961 $1621 forward $1637 $-1 #
+edge $2456 $2457 -65.636292552341288 $1625 65.636292552341288 $961 $2458 forward 7 unknown #
+coedge $-1 $1631 $1630 $962 $1623 forward $959 $-1 #
+edge $2459 $1626 -65.636292552341288 $2460 65.636292552341288 $962 $2461 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $964 #
+vertex $-1 $1621 $2462 #
+vertex $-1 $964 $2463 #
+straight-curve $-1 65.636292552341288 0 -44.672899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+coedge $-1 $2464 $2465 $965 $1629 reversed $1617 $-1 #
+edge $2466 $1633 -104.31902157184561 $1639 104.31902157184561 $965 $2467 forward 7 unknown #
+coedge $-1 $1622 $966 $971 $1642 forward $959 $-1 #
+coedge $-1 $966 $1622 $2464 $2468 forward $959 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $967 #
+vertex $-1 $1629 $2469 #
+straight-curve $-1 0 -104.31902157184561 -159.8006 -1 0 0 I I #
+coedge $-1 $1620 $968 $2465 $2470 reversed $1637 $-1 #
+coedge $-1 $968 $1620 $970 $1641 forward $1637 $-1 #
+loop $-1 $-1 $968 $1616 #
+ptlist-eye-attrib $-1 $-1 $-1 $969 #
+vertex $-1 $969 $2471 #
+straight-curve $-1 0 104.31902157184561 -159.8006 1 0 0 I I #
+edge $2472 $1625 -115.1277 $973 -0 $1636 $2473 forward 7 unknown #
+edge $2474 $974 0 $1626 115.1277 $1630 $2475 forward 7 unknown #
+point $-1 65.636292552341288 104.31902157184561 -159.8006 #
+point $-1 65.636292552341288 -104.31902157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $977 #
+face $2476 $-1 $1667 $149 $-1 $2477 forward single #
+loop $-1 $-1 $1658 $977 #
+plane-surface $-1 -65.636292552341288 0 43.172899999999998 -1 -0 0 0 -0 1 forward_v I I I I #
+coedge $-1 $981 $980 $2478 $2479 reversed $424 $-1 #
+coedge $-1 $1666 $1665 $980 $1651 forward $1667 $-1 #
+edge $2480 $2481 -65.636292552341288 $1655 65.636292552341288 $980 $2482 forward 7 unknown #
+coedge $-1 $1661 $1660 $981 $1653 forward $978 $-1 #
+edge $2483 $1656 -65.636292552341288 $2484 65.636292552341288 $981 $2485 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $983 #
+vertex $-1 $1651 $2486 #
+vertex $-1 $983 $2487 #
+straight-curve $-1 65.636292552341288 0 43.172899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+coedge $-1 $2488 $2489 $984 $1659 reversed $1647 $-1 #
+edge $2490 $1663 -104.31902157184561 $1669 104.31902157184561 $984 $2491 forward 7 unknown #
+coedge $-1 $1652 $985 $990 $1672 forward $978 $-1 #
+coedge $-1 $985 $1652 $2488 $2492 reversed $978 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $986 #
+vertex $-1 $1659 $2493 #
+straight-curve $-1 0 104.31902157184561 158.3006 -1 0 0 I I #
+coedge $-1 $1650 $987 $2489 $2494 forward $1667 $-1 #
+coedge $-1 $987 $1650 $989 $1671 forward $1667 $-1 #
+loop $-1 $-1 $987 $1646 #
+ptlist-eye-attrib $-1 $-1 $-1 $988 #
+vertex $-1 $988 $2495 #
+straight-curve $-1 0 -104.31902157184561 158.3006 1 0 0 I I #
+edge $2496 $1655 -115.1277 $992 0 $1666 $2497 forward 7 unknown #
+edge $2498 $993 0 $1656 115.1277 $1660 $2499 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 158.3006 #
+point $-1 65.636292552341288 104.31902157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $996 #
+face $2500 $-1 $1697 $151 $-1 $2501 forward single #
+loop $-1 $-1 $1688 $996 #
+plane-surface $-1 -65.636292552341288 -104.31902157184561 -0.75 1 -0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $1000 $999 $2502 $2503 forward $429 $-1 #
+coedge $-1 $1696 $1695 $999 $1681 forward $1697 $-1 #
+edge $2504 $2505 -115.12769999999999 $1685 -0 $999 $2506 forward 7 unknown #
+coedge $-1 $1691 $1690 $1000 $1683 forward $997 $-1 #
+edge $2507 $1686 0 $2508 115.12769999999999 $1000 $2509 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1002 #
+vertex $-1 $1681 $2510 #
+vertex $-1 $1002 $2511 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2512 $2513 $1003 $1689 forward $1677 $-1 #
+edge $2514 $1699 -43.922899999999998 $1693 43.922899999999998 $1003 $2515 forward 7 unknown #
+coedge $-1 $1682 $1004 $1009 $1702 forward $997 $-1 #
+coedge $-1 $1004 $1682 $2512 $2516 forward $997 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1005 #
+vertex $-1 $1689 $2517 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -44.672899999999998 1 0 0 I I #
+coedge $-1 $1680 $1006 $2513 $2518 forward $1697 $-1 #
+coedge $-1 $1006 $1680 $1008 $1701 forward $1697 $-1 #
+loop $-1 $-1 $1006 $1676 #
+ptlist-eye-attrib $-1 $-1 $-1 $1007 #
+vertex $-1 $1007 $2519 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 43.172899999999998 -1 -0 -0 I I #
+edge $2520 $1685 -115.1277 $1011 -0 $1696 $2521 forward 7 unknown #
+edge $2522 $1012 0 $1686 115.1277 $1690 $2523 forward 7 unknown #
+point $-1 -180.76399255234128 -219.44672157184561 43.172899999999998 #
+point $-1 -180.76399255234128 -219.44672157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1015 #
+face $2524 $-1 $1727 $153 $-1 $2525 forward single #
+loop $-1 $-1 $1718 $1015 #
+plane-surface $-1 -65.636292552341288 104.31902157184561 -0.75 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $1019 $1018 $2526 $2527 reversed $434 $-1 #
+coedge $-1 $1726 $1725 $1018 $1711 reversed $1727 $-1 #
+edge $2528 $1716 0 $2529 115.12769999999999 $1018 $2530 forward 7 unknown #
+coedge $-1 $1721 $1720 $1019 $1713 reversed $1016 $-1 #
+edge $2531 $2532 -115.12769999999999 $1715 -0 $1019 $2533 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1021 #
+vertex $-1 $1021 $2534 #
+vertex $-1 $1711 $2535 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2536 $2537 $1022 $1719 reversed $1707 $-1 #
+edge $2538 $1723 -43.922899999999998 $1729 43.922899999999998 $1022 $2539 forward 7 unknown #
+coedge $-1 $1712 $1023 $1028 $1732 forward $1016 $-1 #
+coedge $-1 $1023 $1712 $2536 $2540 forward $1016 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1024 #
+vertex $-1 $1719 $2541 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 43.172899999999998 -1 -0 -0 I I #
+coedge $-1 $1710 $1025 $2537 $2542 forward $1727 $-1 #
+coedge $-1 $1025 $1710 $1027 $1731 forward $1727 $-1 #
+loop $-1 $-1 $1025 $1706 #
+ptlist-eye-attrib $-1 $-1 $-1 $1026 #
+vertex $-1 $1026 $2543 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -44.672899999999998 1 0 0 I I #
+edge $2544 $1716 -115.1277 $1031 0 $1726 $2545 forward 7 unknown #
+edge $2546 $1030 0 $1715 115.1277 $1720 $2547 forward 7 unknown #
+point $-1 -180.76399255234128 219.44672157184561 43.172899999999998 #
+point $-1 -180.76399255234128 219.44672157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1034 #
+face $2548 $-1 $1757 $155 $-1 $2549 forward single #
+loop $-1 $-1 $1748 $1034 #
+plane-surface $-1 -65.636292552341288 0 -44.672899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1038 $1037 $2550 $2551 forward $439 $-1 #
+coedge $-1 $1756 $1755 $1037 $1741 reversed $1757 $-1 #
+edge $2552 $1745 0 $2553 115.12769999999999 $1037 $2554 forward 7 unknown #
+coedge $-1 $1751 $1750 $1038 $1743 forward $1035 $-1 #
+edge $2555 $1746 0 $2556 115.12769999999999 $1038 $2557 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1040 #
+vertex $-1 $1741 $2558 #
+vertex $-1 $1040 $2559 #
+straight-curve $-1 -180.76399255234128 0 -44.672899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+coedge $-1 $2560 $2561 $1041 $1749 forward $1737 $-1 #
+edge $2562 $1759 -104.31902157184561 $1753 104.31902157184561 $1041 $2563 forward 7 unknown #
+coedge $-1 $1742 $1042 $1047 $1762 forward $1035 $-1 #
+coedge $-1 $1042 $1742 $2560 $2564 forward $1035 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1043 #
+vertex $-1 $1749 $2565 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -159.8006 1 0 0 I I #
+coedge $-1 $1740 $1044 $2561 $2566 forward $1757 $-1 #
+coedge $-1 $1044 $1740 $1046 $1761 forward $1757 $-1 #
+loop $-1 $-1 $1044 $1736 #
+ptlist-eye-attrib $-1 $-1 $-1 $1045 #
+vertex $-1 $1045 $2567 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -159.8006 1 0 0 I I #
+edge $2568 $1745 -115.1277 $1049 -0 $1756 $2569 forward 7 unknown #
+edge $2570 $1050 0 $1746 115.1277 $1750 $2571 forward 7 unknown #
+point $-1 -180.76399255234128 -104.31902157184561 -159.8006 #
+point $-1 -180.76399255234128 104.31902157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1053 #
+face $2572 $-1 $1787 $157 $-1 $2573 forward single #
+loop $-1 $-1 $1778 $1053 #
+plane-surface $-1 -65.636292552341288 0 43.172899999999998 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $1057 $1056 $2574 $2575 forward $444 $-1 #
+coedge $-1 $1786 $1785 $1056 $1771 forward $1787 $-1 #
+edge $2576 $2577 -115.12769999999999 $1775 -0 $1056 $2578 forward 7 unknown #
+coedge $-1 $1781 $1780 $1057 $1773 reversed $1054 $-1 #
+edge $2579 $2580 -115.12769999999999 $1776 -0 $1057 $2581 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1059 #
+vertex $-1 $1771 $2582 #
+vertex $-1 $1059 $2583 #
+straight-curve $-1 -180.76399255234128 0 43.172899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+coedge $-1 $2584 $2585 $1060 $1779 forward $1767 $-1 #
+edge $2586 $1789 -104.31902157184561 $1783 104.31902157184561 $1060 $2587 forward 7 unknown #
+coedge $-1 $1772 $1061 $1066 $1792 forward $1054 $-1 #
+coedge $-1 $1061 $1772 $2584 $2588 forward $1054 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1062 #
+vertex $-1 $1779 $2589 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 158.3006 -1 -0 -0 I I #
+coedge $-1 $1770 $1063 $2585 $2590 forward $1787 $-1 #
+coedge $-1 $1063 $1770 $1065 $1791 forward $1787 $-1 #
+loop $-1 $-1 $1063 $1766 #
+ptlist-eye-attrib $-1 $-1 $-1 $1064 #
+vertex $-1 $1064 $2591 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 158.3006 -1 -0 -0 I I #
+edge $2592 $1775 -115.1277 $1068 0 $1786 $2593 forward 7 unknown #
+edge $2594 $1069 0 $1776 115.1277 $1780 $2595 forward 7 unknown #
+point $-1 -180.76399255234128 104.31902157184561 158.3006 #
+point $-1 -180.76399255234128 -104.31902157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1072 #
+face $2596 $-1 $1817 $159 $-1 $2597 forward single #
+loop $-1 $-1 $1808 $1072 #
+plane-surface $-1 65.636292552341288 -104.31902157184561 -0.75 -1 0 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1076 $1075 $2598 $2599 reversed $449 $-1 #
+coedge $-1 $1816 $1815 $1075 $1801 reversed $1817 $-1 #
+edge $2600 $1806 0 $2601 115.12769999999999 $1075 $2602 forward 7 unknown #
+coedge $-1 $1811 $1810 $1076 $1803 forward $1073 $-1 #
+edge $2603 $1805 0 $2604 115.12769999999999 $1076 $2605 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1078 #
+vertex $-1 $1078 $2606 #
+vertex $-1 $1801 $2607 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2608 $2609 $1079 $1809 reversed $1797 $-1 #
+edge $2610 $1813 -43.922899999999998 $1819 43.922899999999998 $1079 $2611 forward 7 unknown #
+coedge $-1 $1802 $1080 $1085 $1822 forward $1073 $-1 #
+coedge $-1 $1080 $1802 $2608 $2612 forward $1073 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1081 #
+vertex $-1 $1809 $2613 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 43.172899999999998 -1 0 0 I I #
+coedge $-1 $1800 $1082 $2609 $2614 forward $1817 $-1 #
+coedge $-1 $1082 $1800 $1084 $1821 forward $1817 $-1 #
+loop $-1 $-1 $1082 $1796 #
+ptlist-eye-attrib $-1 $-1 $-1 $1083 #
+vertex $-1 $1083 $2615 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -44.672899999999998 -1 0 0 I I #
+edge $2616 $1806 -115.1277 $1088 -0 $1816 $2617 forward 7 unknown #
+edge $2618 $1087 0 $1805 115.1277 $1810 $2619 forward 7 unknown #
+point $-1 180.76399255234128 -219.44672157184561 43.172899999999998 #
+point $-1 180.76399255234128 -219.44672157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1091 #
+face $2620 $-1 $1847 $161 $-1 $2621 forward single #
+loop $-1 $-1 $1838 $1091 #
+plane-surface $-1 65.636292552341288 104.31902157184561 -0.75 -1 0 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1095 $1094 $2622 $2623 forward $454 $-1 #
+coedge $-1 $1846 $1845 $1094 $1831 forward $1847 $-1 #
+edge $2624 $2625 -115.12769999999999 $1835 0 $1094 $2626 forward 7 unknown #
+coedge $-1 $1841 $1840 $1095 $1833 forward $1092 $-1 #
+edge $2627 $1836 0 $2628 115.12769999999999 $1095 $2629 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1097 #
+vertex $-1 $1831 $2630 #
+vertex $-1 $1097 $2631 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+coedge $-1 $2632 $2633 $1098 $1839 forward $1827 $-1 #
+edge $2634 $1849 -43.922899999999998 $1843 43.922899999999998 $1098 $2635 forward 7 unknown #
+coedge $-1 $1832 $1099 $1104 $1852 forward $1092 $-1 #
+coedge $-1 $1099 $1832 $2632 $2636 forward $1092 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1100 #
+vertex $-1 $1839 $2637 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -44.672899999999998 -1 0 0 I I #
+coedge $-1 $1830 $1101 $2633 $2638 forward $1847 $-1 #
+coedge $-1 $1101 $1830 $1103 $1851 forward $1847 $-1 #
+loop $-1 $-1 $1101 $1826 #
+ptlist-eye-attrib $-1 $-1 $-1 $1102 #
+vertex $-1 $1102 $2639 #
+straight-curve $-1 180.76399255234128 219.44672157184561 43.172899999999998 1 0 0 I I #
+edge $2640 $1835 -115.1277 $1106 0 $1846 $2641 forward 7 unknown #
+edge $2642 $1107 0 $1836 115.1277 $1840 $2643 forward 7 unknown #
+point $-1 180.76399255234128 219.44672157184561 43.172899999999998 #
+point $-1 180.76399255234128 219.44672157184561 -44.672899999999998 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1110 #
+face $2644 $-1 $1877 $163 $-1 $2645 forward single #
+loop $-1 $-1 $1868 $1110 #
+plane-surface $-1 65.636292552341288 0 -44.672899999999998 -1 -0 0 0 -0 1 forward_v I I I I #
+coedge $-1 $1114 $1113 $2646 $2647 forward $459 $-1 #
+coedge $-1 $1876 $1875 $1113 $1861 reversed $1877 $-1 #
+edge $2648 $1865 0 $2649 115.12769999999999 $1113 $2650 forward 7 unknown #
+coedge $-1 $1871 $1870 $1114 $1863 forward $1111 $-1 #
+edge $2651 $1866 0 $2652 115.12769999999999 $1114 $2653 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1116 #
+vertex $-1 $1861 $2654 #
+vertex $-1 $1116 $2655 #
+straight-curve $-1 180.76399255234128 0 -44.672899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+coedge $-1 $2656 $2657 $1117 $1869 forward $1857 $-1 #
+edge $2658 $1879 -104.31902157184561 $1873 104.31902157184561 $1117 $2659 forward 7 unknown #
+coedge $-1 $1862 $1118 $1123 $1882 forward $1111 $-1 #
+coedge $-1 $1118 $1862 $2656 $2660 forward $1111 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1119 #
+vertex $-1 $1869 $2661 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -159.8006 -1 0 0 I I #
+coedge $-1 $1860 $1120 $2657 $2662 forward $1877 $-1 #
+coedge $-1 $1120 $1860 $1122 $1881 forward $1877 $-1 #
+loop $-1 $-1 $1120 $1856 #
+ptlist-eye-attrib $-1 $-1 $-1 $1121 #
+vertex $-1 $1121 $2663 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -159.8006 -1 0 0 I I #
+edge $2664 $1865 -115.1277 $1125 -0 $1876 $2665 forward 7 unknown #
+edge $2666 $1126 0 $1866 115.1277 $1870 $2667 forward 7 unknown #
+point $-1 180.76399255234128 104.31902157184561 -159.8006 #
+point $-1 180.76399255234128 -104.31902157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1129 #
+face $2668 $-1 $1907 $165 $-1 $2669 forward single #
+loop $-1 $-1 $1898 $1129 #
+plane-surface $-1 65.636292552341288 0 43.172899999999998 -1 0 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1133 $1132 $2670 $2671 forward $464 $-1 #
+coedge $-1 $1906 $1905 $1132 $1891 reversed $1907 $-1 #
+edge $2672 $1895 0 $2673 115.12769999999999 $1132 $2674 forward 7 unknown #
+coedge $-1 $1901 $1900 $1133 $1893 reversed $1130 $-1 #
+edge $2675 $2676 -115.12769999999999 $1896 0 $1133 $2677 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1135 #
+vertex $-1 $1891 $2678 #
+vertex $-1 $1135 $2679 #
+straight-curve $-1 180.76399255234128 0 43.172899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+coedge $-1 $2680 $2681 $1136 $1899 forward $1887 $-1 #
+edge $2682 $1909 -104.31902157184561 $1903 104.31902157184561 $1136 $2683 forward 7 unknown #
+coedge $-1 $1892 $1137 $1142 $1912 forward $1130 $-1 #
+coedge $-1 $1137 $1892 $2680 $2684 forward $1130 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1138 #
+vertex $-1 $1899 $2685 #
+straight-curve $-1 180.76399255234128 104.31902157184561 158.3006 1 0 0 I I #
+coedge $-1 $1890 $1139 $2681 $2686 forward $1907 $-1 #
+coedge $-1 $1139 $1890 $1141 $1911 forward $1907 $-1 #
+loop $-1 $-1 $1139 $1886 #
+ptlist-eye-attrib $-1 $-1 $-1 $1140 #
+vertex $-1 $1140 $2687 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 158.3006 -1 0 0 I I #
+edge $2688 $1895 -115.1277 $1144 0 $1906 $2689 forward 7 unknown #
+edge $2690 $1145 0 $1896 115.1277 $1900 $2691 forward 7 unknown #
+point $-1 180.76399255234128 -104.31902157184561 158.3006 #
+point $-1 180.76399255234128 104.31902157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1148 #
+face $2692 $-1 $1937 $167 $-1 $2693 forward single #
+loop $-1 $-1 $1928 $1148 #
+plane-surface $-1 0 -104.31902157184561 -44.672899999999998 0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1152 $1151 $2694 $2695 forward $469 $-1 #
+coedge $-1 $1936 $1935 $1151 $1921 forward $1937 $-1 #
+edge $2696 $2697 -115.1277 $1925 -0 $1151 $2698 forward 7 unknown #
+coedge $-1 $1931 $1930 $1152 $1923 forward $1149 $-1 #
+edge $2699 $1926 0 $2700 115.1277 $1152 $2701 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1154 #
+vertex $-1 $1921 $2702 #
+vertex $-1 $1154 $2703 #
+straight-curve $-1 0 -219.44672157184561 -44.672899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+coedge $-1 $2704 $2705 $1155 $1929 forward $1917 $-1 #
+edge $2706 $1939 -65.636292552341288 $1933 65.636292552341288 $1155 $2707 forward 7 unknown #
+coedge $-1 $1922 $1156 $1161 $1942 forward $1149 $-1 #
+coedge $-1 $1156 $1922 $2704 $2708 forward $1149 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1157 #
+vertex $-1 $1929 $2709 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -159.8006 0 1 0 I I #
+coedge $-1 $1920 $1158 $2705 $2710 forward $1937 $-1 #
+coedge $-1 $1158 $1920 $1160 $1941 forward $1937 $-1 #
+loop $-1 $-1 $1158 $1916 #
+ptlist-eye-attrib $-1 $-1 $-1 $1159 #
+vertex $-1 $1159 $2711 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -159.8006 -0 -1 -0 I I #
+edge $2712 $1925 -115.1277 $1163 -0 $1936 $2713 forward 7 unknown #
+edge $2714 $1164 0 $1926 115.1277 $1930 $2715 forward 7 unknown #
+point $-1 65.636292552341288 -219.44672157184561 -159.8006 #
+point $-1 -65.636292552341288 -219.44672157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1167 #
+face $2716 $-1 $1967 $169 $-1 $2717 forward single #
+loop $-1 $-1 $1958 $1167 #
+plane-surface $-1 0 -104.31902157184561 43.172899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1171 $1170 $2718 $2719 forward $474 $-1 #
+coedge $-1 $1966 $1965 $1170 $1951 forward $1967 $-1 #
+edge $2720 $2721 -115.1277 $1955 -0 $1170 $2722 forward 7 unknown #
+coedge $-1 $1961 $1960 $1171 $1953 forward $1168 $-1 #
+edge $2723 $1956 0 $2724 115.1277 $1171 $2725 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1173 #
+vertex $-1 $1951 $2726 #
+vertex $-1 $1173 $2727 #
+straight-curve $-1 0 -219.44672157184561 43.172899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+coedge $-1 $2728 $2729 $1174 $1959 forward $1947 $-1 #
+edge $2730 $1969 -65.636292552341288 $1963 65.636292552341288 $1174 $2731 forward 7 unknown #
+coedge $-1 $1952 $1175 $1180 $1972 forward $1168 $-1 #
+coedge $-1 $1175 $1952 $2728 $2732 forward $1168 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1176 #
+vertex $-1 $1959 $2733 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 158.3006 0 1 0 I I #
+coedge $-1 $1950 $1177 $2729 $2734 forward $1967 $-1 #
+coedge $-1 $1177 $1950 $1179 $1971 forward $1967 $-1 #
+loop $-1 $-1 $1177 $1946 #
+ptlist-eye-attrib $-1 $-1 $-1 $1178 #
+vertex $-1 $1178 $2735 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 158.3006 -0 -1 -0 I I #
+edge $2736 $1955 -115.1277 $1182 0 $1966 $2737 forward 7 unknown #
+edge $2738 $1183 0 $1956 115.1277 $1960 $2739 forward 7 unknown #
+point $-1 -65.636292552341288 -219.44672157184561 158.3006 #
+point $-1 65.636292552341288 -219.44672157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1186 #
+face $2740 $-1 $1997 $171 $-1 $2741 forward single #
+loop $-1 $-1 $1988 $1186 #
+plane-surface $-1 0 104.31902157184561 -44.672899999999998 -0 -1 0 0 -0 -1 forward_v I I I I #
+coedge $-1 $1190 $1189 $2742 $2743 forward $479 $-1 #
+coedge $-1 $1996 $1995 $1189 $1981 reversed $1997 $-1 #
+edge $2744 $1985 0 $2745 115.1277 $1189 $2746 forward 7 unknown #
+coedge $-1 $1991 $1990 $1190 $1983 forward $1187 $-1 #
+edge $2747 $1986 0 $2748 115.1277 $1190 $2749 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1192 #
+vertex $-1 $1981 $2750 #
+vertex $-1 $1192 $2751 #
+straight-curve $-1 0 219.44672157184561 -44.672899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+coedge $-1 $2752 $2753 $1193 $1989 forward $1977 $-1 #
+edge $2754 $1999 -65.636292552341288 $1993 65.636292552341288 $1193 $2755 forward 7 unknown #
+coedge $-1 $1982 $1194 $1199 $2002 forward $1187 $-1 #
+coedge $-1 $1194 $1982 $2752 $2756 forward $1187 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1195 #
+vertex $-1 $1989 $2757 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -159.8006 0 -1 0 I I #
+coedge $-1 $1980 $1196 $2753 $2758 forward $1997 $-1 #
+coedge $-1 $1196 $1980 $1198 $2001 forward $1997 $-1 #
+loop $-1 $-1 $1196 $1976 #
+ptlist-eye-attrib $-1 $-1 $-1 $1197 #
+vertex $-1 $1197 $2759 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -159.8006 0 -1 0 I I #
+edge $2760 $1985 -115.1277 $1201 -0 $1996 $2761 forward 7 unknown #
+edge $2762 $1202 0 $1986 115.1277 $1990 $2763 forward 7 unknown #
+point $-1 -65.636292552341288 219.44672157184561 -159.8006 #
+point $-1 65.636292552341288 219.44672157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1205 #
+face $2764 $-1 $2027 $173 $-1 $2765 forward single #
+loop $-1 $-1 $2018 $1205 #
+plane-surface $-1 0 104.31902157184561 43.172899999999998 -0 -1 0 0 -0 -1 forward_v I I I I #
+coedge $-1 $1209 $1208 $2766 $2767 forward $484 $-1 #
+coedge $-1 $2026 $2025 $1208 $2011 forward $2027 $-1 #
+edge $2768 $2769 -115.1277 $2015 0 $1208 $2770 forward 7 unknown #
+coedge $-1 $2021 $2020 $1209 $2013 reversed $1206 $-1 #
+edge $2771 $2772 -115.1277 $2016 0 $1209 $2773 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1211 #
+vertex $-1 $2011 $2774 #
+vertex $-1 $1211 $2775 #
+straight-curve $-1 0 219.44672157184561 43.172899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+coedge $-1 $2776 $2777 $1212 $2019 forward $2007 $-1 #
+edge $2778 $2029 -65.636292552341288 $2023 65.636292552341288 $1212 $2779 forward 7 unknown #
+coedge $-1 $2012 $1213 $1218 $2032 forward $1206 $-1 #
+coedge $-1 $1213 $2012 $2776 $2780 forward $1206 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1214 #
+vertex $-1 $2019 $2781 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 158.3006 0 1 0 I I #
+coedge $-1 $2010 $1215 $2777 $2782 forward $2027 $-1 #
+coedge $-1 $1215 $2010 $1217 $2031 forward $2027 $-1 #
+loop $-1 $-1 $1215 $2006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1216 #
+vertex $-1 $1216 $2783 #
+straight-curve $-1 65.636292552341288 219.44672157184561 158.3006 0 1 0 I I #
+edge $2784 $2015 -115.1277 $1220 0 $2026 $2785 forward 7 unknown #
+edge $2786 $1221 0 $2016 115.1277 $2020 $2787 forward 7 unknown #
+point $-1 65.636292552341288 219.44672157184561 158.3006 #
+point $-1 -65.636292552341288 219.44672157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1224 #
+face $2788 $-1 $2057 $175 $-1 $2789 forward single #
+loop $-1 $-1 $2048 $1224 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 -44.672899999999998 -0 1 0 0 -0 1 forward_v I I I I #
+coedge $-1 $1228 $1227 $2790 $2791 reversed $489 $-1 #
+coedge $-1 $2056 $2055 $1227 $2041 forward $2057 $-1 #
+edge $2792 $2793 -115.1277 $2046 -0 $1227 $2794 forward 7 unknown #
+coedge $-1 $2051 $2050 $1228 $2043 forward $1225 $-1 #
+edge $2795 $2045 0 $2796 115.1277 $1228 $2797 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1230 #
+vertex $-1 $1230 $2798 #
+vertex $-1 $2041 $2799 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+coedge $-1 $2800 $2801 $1231 $2049 reversed $2037 $-1 #
+edge $2802 $2053 0 $2059 115.12769999999999 $1231 $2803 forward 7 unknown #
+coedge $-1 $2042 $1232 $1237 $2062 forward $1225 $-1 #
+coedge $-1 $1232 $2042 $2800 $2804 forward $1225 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1233 #
+vertex $-1 $2049 $2805 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -159.8006 0 1 0 I I #
+coedge $-1 $2040 $1234 $2801 $2806 forward $2057 $-1 #
+coedge $-1 $1234 $2040 $1236 $2061 forward $2057 $-1 #
+loop $-1 $-1 $1234 $2036 #
+ptlist-eye-attrib $-1 $-1 $-1 $1235 #
+vertex $-1 $1235 $2807 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -159.8006 -0 -1 -0 I I #
+edge $2808 $2046 -115.1277 $1240 -0 $2056 $2809 forward 7 unknown #
+edge $2810 $1239 0 $2045 115.1277 $2050 $2811 forward 7 unknown #
+point $-1 -180.76399255234128 -219.44672157184561 -159.8006 #
+point $-1 -65.636292552341288 -219.44672157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1243 #
+face $2812 $-1 $2087 $177 $-1 $2813 forward single #
+loop $-1 $-1 $2078 $1243 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 43.172899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1247 $1246 $2814 $2815 reversed $494 $-1 #
+coedge $-1 $2086 $2085 $1246 $2071 forward $2087 $-1 #
+edge $2816 $2817 -115.1277 $2076 -0 $1246 $2818 forward 7 unknown #
+coedge $-1 $2081 $2080 $1247 $2073 forward $1244 $-1 #
+edge $2819 $2075 0 $2820 115.1277 $1247 $2821 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1249 #
+vertex $-1 $1249 $2822 #
+vertex $-1 $2071 $2823 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+coedge $-1 $2824 $2825 $1250 $2079 reversed $2067 $-1 #
+edge $2826 $2083 -115.12769999999999 $2089 -0 $1250 $2827 forward 7 unknown #
+coedge $-1 $2072 $1251 $1256 $2092 forward $1244 $-1 #
+coedge $-1 $1251 $2072 $2824 $2828 forward $1244 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1252 #
+vertex $-1 $2079 $2829 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 158.3006 0 1 0 I I #
+coedge $-1 $2070 $1253 $2825 $2830 forward $2087 $-1 #
+coedge $-1 $1253 $2070 $1255 $2091 forward $2087 $-1 #
+loop $-1 $-1 $1253 $2066 #
+ptlist-eye-attrib $-1 $-1 $-1 $1254 #
+vertex $-1 $1254 $2831 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 158.3006 -0 -1 -0 I I #
+edge $2832 $2076 -115.1277 $1259 0 $2086 $2833 forward 7 unknown #
+edge $2834 $1258 0 $2075 115.1277 $2080 $2835 forward 7 unknown #
+point $-1 -65.636292552341288 -219.44672157184561 158.3006 #
+point $-1 -180.76399255234128 -219.44672157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1262 #
+face $2836 $-1 $2117 $179 $-1 $2837 forward single #
+loop $-1 $-1 $2108 $1262 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 -44.672899999999998 -0 -1 0 0 -0 -1 forward_v I I I I #
+coedge $-1 $1266 $1265 $2838 $2839 forward $499 $-1 #
+coedge $-1 $2116 $2115 $1265 $2101 forward $2117 $-1 #
+edge $2840 $2841 -115.1277 $2105 0 $1265 $2842 forward 7 unknown #
+coedge $-1 $2111 $2110 $1266 $2103 forward $1263 $-1 #
+edge $2843 $2106 0 $2844 115.1277 $1266 $2845 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1268 #
+vertex $-1 $2101 $2846 #
+vertex $-1 $1268 $2847 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+coedge $-1 $2848 $2849 $1269 $2109 forward $2097 $-1 #
+edge $2850 $2119 0 $2113 115.12769999999999 $1269 $2851 forward 7 unknown #
+coedge $-1 $2102 $1270 $1275 $2122 forward $1263 $-1 #
+coedge $-1 $1270 $2102 $2848 $2852 forward $1263 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1271 #
+vertex $-1 $2109 $2853 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -159.8006 0 -1 0 I I #
+coedge $-1 $2100 $1272 $2849 $2854 forward $2117 $-1 #
+coedge $-1 $1272 $2100 $1274 $2121 forward $2117 $-1 #
+loop $-1 $-1 $1272 $2096 #
+ptlist-eye-attrib $-1 $-1 $-1 $1273 #
+vertex $-1 $1273 $2855 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -159.8006 0 1 0 I I #
+edge $2856 $2105 -115.1277 $1277 -0 $2116 $2857 forward 7 unknown #
+edge $2858 $1278 0 $2106 115.1277 $2110 $2859 forward 7 unknown #
+point $-1 -180.76399255234128 219.44672157184561 -159.8006 #
+point $-1 -65.636292552341288 219.44672157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1281 #
+face $2860 $-1 $2147 $181 $-1 $2861 forward single #
+loop $-1 $-1 $2138 $1281 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 43.172899999999998 0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1285 $1284 $2862 $2863 forward $504 $-1 #
+coedge $-1 $2146 $2145 $1284 $2131 forward $2147 $-1 #
+edge $2864 $2865 -115.1277 $2135 0 $1284 $2866 forward 7 unknown #
+coedge $-1 $2141 $2140 $1285 $2133 forward $1282 $-1 #
+edge $2867 $2136 0 $2868 115.1277 $1285 $2869 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1287 #
+vertex $-1 $2131 $2870 #
+vertex $-1 $1287 $2871 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+coedge $-1 $2872 $2873 $1288 $2139 forward $2127 $-1 #
+edge $2874 $2149 -115.12769999999999 $2143 -0 $1288 $2875 forward 7 unknown #
+coedge $-1 $2132 $1289 $1294 $2152 forward $1282 $-1 #
+coedge $-1 $1289 $2132 $2872 $2876 forward $1282 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1290 #
+vertex $-1 $2139 $2877 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 158.3006 0 -1 0 I I #
+coedge $-1 $2130 $1291 $2873 $2878 forward $2147 $-1 #
+coedge $-1 $1291 $2130 $1293 $2151 forward $2147 $-1 #
+loop $-1 $-1 $1291 $2126 #
+ptlist-eye-attrib $-1 $-1 $-1 $1292 #
+vertex $-1 $1292 $2879 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 158.3006 0 1 0 I I #
+edge $2880 $2135 -115.1277 $1296 0 $2146 $2881 forward 7 unknown #
+edge $2882 $1297 0 $2136 115.1277 $2140 $2883 forward 7 unknown #
+point $-1 -65.636292552341288 219.44672157184561 158.3006 #
+point $-1 -180.76399255234128 219.44672157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1300 #
+face $2884 $-1 $2177 $183 $-1 $2885 forward single #
+loop $-1 $-1 $2168 $1300 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 -44.672899999999998 0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $1304 $1303 $2886 $2887 forward $509 $-1 #
+coedge $-1 $2176 $2175 $1303 $2161 forward $2177 $-1 #
+edge $2888 $2889 -115.1277 $2165 -0 $1303 $2890 forward 7 unknown #
+coedge $-1 $2171 $2170 $1304 $2163 forward $1301 $-1 #
+edge $2891 $2166 0 $2892 115.1277 $1304 $2893 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1306 #
+vertex $-1 $2161 $2894 #
+vertex $-1 $1306 $2895 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+coedge $-1 $2896 $2897 $1307 $2169 forward $2157 $-1 #
+edge $2898 $2179 0 $2173 115.12769999999999 $1307 $2899 forward 7 unknown #
+coedge $-1 $2162 $1308 $1313 $2182 forward $1301 $-1 #
+coedge $-1 $1308 $2162 $2896 $2900 forward $1301 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1309 #
+vertex $-1 $2169 $2901 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -159.8006 0 1 0 I I #
+coedge $-1 $2160 $1310 $2897 $2902 forward $2177 $-1 #
+coedge $-1 $1310 $2160 $1312 $2181 forward $2177 $-1 #
+loop $-1 $-1 $1310 $2156 #
+ptlist-eye-attrib $-1 $-1 $-1 $1311 #
+vertex $-1 $1311 $2903 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -159.8006 -0 -1 -0 I I #
+edge $2904 $2165 -115.1277 $1315 -0 $2176 $2905 forward 7 unknown #
+edge $2906 $1316 0 $2166 115.1277 $2170 $2907 forward 7 unknown #
+point $-1 180.76399255234128 -219.44672157184561 -159.8006 #
+point $-1 65.636292552341288 -219.44672157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1319 #
+face $2908 $-1 $2207 $185 $-1 $2909 forward single #
+loop $-1 $-1 $2198 $1319 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 43.172899999999998 0 1 0 0 0 1 forward_v I I I I #
+coedge $-1 $1323 $1322 $2910 $2911 reversed $514 $-1 #
+coedge $-1 $2206 $2205 $1322 $2191 forward $2207 $-1 #
+edge $2912 $2913 -115.1277 $2196 -0 $1322 $2914 forward 7 unknown #
+coedge $-1 $2201 $2200 $1323 $2193 forward $1320 $-1 #
+edge $2915 $2195 0 $2916 115.1277 $1323 $2917 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1325 #
+vertex $-1 $1325 $2918 #
+vertex $-1 $2191 $2919 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 43.172899999999998 -1 0 0 F 0 F 115.12769999999999 #
+coedge $-1 $2920 $2921 $1326 $2199 reversed $2187 $-1 #
+edge $2922 $2203 0 $2209 115.12769999999999 $1326 $2923 forward 7 unknown #
+coedge $-1 $2192 $1327 $1332 $2212 forward $1320 $-1 #
+coedge $-1 $1327 $2192 $2920 $2924 forward $1320 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1328 #
+vertex $-1 $2199 $2925 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 158.3006 0 1 0 I I #
+coedge $-1 $2190 $1329 $2921 $2926 forward $2207 $-1 #
+coedge $-1 $1329 $2190 $1331 $2211 forward $2207 $-1 #
+loop $-1 $-1 $1329 $2186 #
+ptlist-eye-attrib $-1 $-1 $-1 $1330 #
+vertex $-1 $1330 $2927 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 158.3006 -0 -1 -0 I I #
+edge $2928 $2196 -115.1277 $1335 0 $2206 $2929 forward 7 unknown #
+edge $2930 $1334 0 $2195 115.1277 $2200 $2931 forward 7 unknown #
+point $-1 180.76399255234128 -219.44672157184561 158.3006 #
+point $-1 65.636292552341288 -219.44672157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1338 #
+face $2932 $-1 $2237 $187 $-1 $2933 forward single #
+loop $-1 $-1 $2228 $1338 #
+plane-surface $-1 123.20014255234128 104.31902157184561 -44.672899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1342 $1341 $2934 $2935 reversed $519 $-1 #
+coedge $-1 $2236 $2235 $1341 $2221 forward $2237 $-1 #
+edge $2936 $2937 -115.1277 $2226 0 $1341 $2938 forward 7 unknown #
+coedge $-1 $2231 $2230 $1342 $2223 forward $1339 $-1 #
+edge $2939 $2225 0 $2940 115.1277 $1342 $2941 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1344 #
+vertex $-1 $1344 $2942 #
+vertex $-1 $2221 $2943 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+coedge $-1 $2944 $2945 $1345 $2229 reversed $2217 $-1 #
+edge $2946 $2233 0 $2239 115.12769999999999 $1345 $2947 forward 7 unknown #
+coedge $-1 $2222 $1346 $1351 $2242 forward $1339 $-1 #
+coedge $-1 $1346 $2222 $2944 $2948 forward $1339 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1347 #
+vertex $-1 $2229 $2949 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -159.8006 0 -1 0 I I #
+coedge $-1 $2220 $1348 $2945 $2950 forward $2237 $-1 #
+coedge $-1 $1348 $2220 $1350 $2241 forward $2237 $-1 #
+loop $-1 $-1 $1348 $2216 #
+ptlist-eye-attrib $-1 $-1 $-1 $1349 #
+vertex $-1 $1349 $2951 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -159.8006 0 1 0 I I #
+edge $2952 $2226 -115.1277 $1354 -0 $2236 $2953 forward 7 unknown #
+edge $2954 $1353 0 $2225 115.1277 $2230 $2955 forward 7 unknown #
+point $-1 180.76399255234128 219.44672157184561 -159.8006 #
+point $-1 65.636292552341288 219.44672157184561 -159.8006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1357 #
+face $2956 $-1 $2267 $189 $-1 $2957 forward single #
+loop $-1 $-1 $2258 $1357 #
+plane-surface $-1 123.20014255234128 104.31902157184561 43.172899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $1361 $1360 $2958 $2959 reversed $524 $-1 #
+coedge $-1 $2266 $2265 $1360 $2251 forward $2267 $-1 #
+edge $2960 $2961 -115.1277 $2256 0 $1360 $2962 forward 7 unknown #
+coedge $-1 $2261 $2260 $1361 $2253 forward $1358 $-1 #
+edge $2963 $2255 0 $2964 115.1277 $1361 $2965 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1363 #
+vertex $-1 $1363 $2966 #
+vertex $-1 $2251 $2967 #
+straight-curve $-1 180.76399255234128 219.44672157184561 43.172899999999998 1 0 0 F -115.12769999999999 F 0 #
+coedge $-1 $2968 $2969 $1364 $2259 reversed $2247 $-1 #
+edge $2970 $2263 -115.12769999999999 $2269 0 $1364 $2971 forward 7 unknown #
+coedge $-1 $2252 $1365 $1370 $2272 forward $1358 $-1 #
+coedge $-1 $1365 $2252 $2968 $2972 forward $1358 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1366 #
+vertex $-1 $2259 $2973 #
+straight-curve $-1 65.636292552341288 219.44672157184561 158.3006 0 -1 0 I I #
+coedge $-1 $2250 $1367 $2969 $2974 forward $2267 $-1 #
+coedge $-1 $1367 $2250 $1369 $2271 forward $2267 $-1 #
+loop $-1 $-1 $1367 $2246 #
+ptlist-eye-attrib $-1 $-1 $-1 $1368 #
+vertex $-1 $1368 $2975 #
+straight-curve $-1 180.76399255234128 219.44672157184561 158.3006 0 1 0 I I #
+edge $2976 $2256 -115.1277 $1373 0 $2266 $2977 forward 7 unknown #
+edge $2978 $1372 0 $2255 115.1277 $2260 $2979 forward 7 unknown #
+point $-1 65.636292552341288 219.44672157184561 158.3006 #
+point $-1 180.76399255234128 219.44672157184561 158.3006 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1376 #
+plane-surface $-1 22.463392552341301 0 -0.75 -1 0 0 0 0 1 forward_v I I I I #
+coedge $-1 $1381 $1379 $1383 $2282 reversed $799 $-1 #
+edge $2980 $1396 -0.75 $2286 0.75 $1394 $2981 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1382 #
+vertex $-1 $2282 $2982 #
+straight-curve $-1 -22.463392552341301 -61.146121571845605 -0.75 0 0 -1 I I #
+edge $2983 $2280 -61.146121571845605 $2286 61.146121571845605 $2277 $2984 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1384 #
+straight-curve $-1 0 -61.146121571845605 -1.5 -1 0 0 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $1386 #
+vertex $-1 $1386 $2985 #
+straight-curve $-1 0 61.146121571845605 -1.5 1 0 0 I I #
+point $-1 22.463392552341301 61.146121571845605 -1.5 #
+point $-1 22.463392552341301 -61.146121571845605 -1.5 #
+ptlist-eye-attrib $-1 $-1 $-1 $1392 #
+straight-curve $-1 -22.463392552341301 0 0 0 -1 0 I I #
+point $-1 -22.463392552341301 61.146121571845605 0 #
+point $-1 -22.463392552341301 -61.146121571845605 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1402 #
+straight-curve $-1 22.463392552341301 -61.146121571845605 -0.75 0 0 -1 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $1403 #
+straight-curve $-1 22.463392552341301 61.146121571845605 -0.75 0 0 -1 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $1406 #
+straight-curve $-1 -1.5 1.5 0 1 0 0 I I #
+point $-1 1.5 1.5 0 #
+point $-1 -1.5 1.5 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1415 #
+straight-curve $-1 1.4999999999999998 -1.5000000000000002 0 -1 1.2246467991473532e-016 0 I I #
+point $-1 -1.5000000000000002 -1.4999999999999998 0 #
+point $-1 1.4999999999999998 -1.5000000000000002 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1424 #
+straight-curve $-1 1.5 1.5 0 -1 0 0 I I #
+point $-1 1.5 1.5 0 #
+point $-1 -1.5 1.5 0 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1434 #
+plane-surface $-1 65.636292552341288 0 -0.75 -1 0 0 0 0 1 forward_v I I I I #
+coedge $-1 $1439 $1437 $1441 $2317 reversed $841 $-1 #
+edge $2986 $1454 -43.922899999999998 $2321 43.922899999999998 $1452 $2987 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1440 #
+vertex $-1 $2317 $2988 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -0.75 0 0 -1 I I #
+edge $2989 $2315 -104.31902157184561 $2321 104.31902157184561 $2312 $2990 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1442 #
+straight-curve $-1 0 -104.31902157184561 -44.672899999999998 -1 0 0 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $1444 #
+vertex $-1 $1444 $2991 #
+straight-curve $-1 0 104.31902157184561 -44.672899999999998 1 0 0 I I #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1450 #
+straight-curve $-1 -65.636292552341288 0 43.172899999999998 0 -1 0 I I #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1460 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -0.75 0 0 -1 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $1461 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1465 #
+plane-surface $-1 57.001692552341304 0 -0.75 -1 0 0 0 0 1 forward_v I I I I #
+coedge $-1 $1470 $1468 $1472 $2340 reversed $862 $-1 #
+edge $2992 $1485 -35.2883 $2344 35.2883 $1483 $2993 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1471 #
+vertex $-1 $2340 $2994 #
+straight-curve $-1 -57.001692552341304 -95.684421571845604 -0.75 0 0 -1 I I #
+edge $2995 $2338 -95.684421571845604 $2344 95.684421571845604 $2335 $2996 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1473 #
+straight-curve $-1 0 -95.684421571845604 -36.0383 -1 0 0 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $1475 #
+vertex $-1 $1475 $2997 #
+straight-curve $-1 0 95.684421571845604 -36.0383 1 0 0 I I #
+point $-1 57.001692552341304 95.684421571845604 -36.0383 #
+point $-1 57.001692552341304 -95.684421571845604 -36.0383 #
+ptlist-eye-attrib $-1 $-1 $-1 $1481 #
+straight-curve $-1 -57.001692552341304 0 34.5383 0 -1 0 I I #
+point $-1 -57.001692552341304 95.684421571845604 34.5383 #
+point $-1 -57.001692552341304 -95.684421571845604 34.5383 #
+ptlist-eye-attrib $-1 $-1 $-1 $1491 #
+straight-curve $-1 57.001692552341304 -95.684421571845604 -0.75 0 0 -1 I I #
+ptlist-eye-attrib $-1 $-1 $-1 $1492 #
+straight-curve $-1 57.001692552341304 95.684421571845604 -0.75 0 0 -1 I I #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1496 #
+plane-surface $-1 -65.636292552341288 0 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $2369 $2368 $1499 $2359 reversed $1497 $-1 #
+edge $2998 $2361 -43.922899999999998 $2364 43.922899999999998 $1499 $2999 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1501 #
+vertex $-1 $2359 $3000 #
+straight-curve $-1 -65.636292552341288 0 43.172899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+ptlist-eye-attrib $-1 $-1 $-1 $1503 #
+vertex $-1 $1503 $3001 #
+straight-curve $-1 -65.636292552341288 0 -44.672899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+coedge $-1 $2358 $1508 $1511 $2372 forward $1497 $-1 #
+coedge $-1 $1508 $2358 $1515 $2374 forward $1497 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1509 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -0.75 0 0 -1 I I #
+edge $3002 $1513 0 $2364 115.12769999999999 $2368 $3003 forward 7 unknown #
+point $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 #
+edge $3004 $2361 -115.12769999999999 $1519 -0 $2369 $3005 forward 7 unknown #
+point $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1521 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 43.172899999999998 -1 -0 -0 F -10407.141372334916 F 10045.613387230233 #
+ptlist-eye-attrib $-1 $-1 $-1 $1522 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 1 0 0 F -10045.613387230233 F 10407.141372334916 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1526 #
+plane-surface $-1 65.636292552341288 0 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $2393 $2392 $1529 $2383 reversed $1527 $-1 #
+edge $3006 $2385 -43.922899999999998 $2388 43.922899999999998 $1529 $3007 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1531 #
+vertex $-1 $2383 $3008 #
+straight-curve $-1 65.636292552341288 0 43.172899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+ptlist-eye-attrib $-1 $-1 $-1 $1533 #
+vertex $-1 $1533 $3009 #
+straight-curve $-1 65.636292552341288 0 -44.672899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+coedge $-1 $2382 $1538 $1541 $2396 forward $1527 $-1 #
+coedge $-1 $1538 $2382 $1545 $2398 forward $1527 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1539 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -0.75 0 0 -1 I I #
+edge $3010 $1543 0 $2388 115.12769999999999 $2392 $3011 forward 7 unknown #
+point $-1 180.76399255234128 104.31902157184561 -44.672899999999998 #
+edge $3012 $2385 -115.12769999999999 $1549 0 $2393 $3013 forward 7 unknown #
+point $-1 180.76399255234128 104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1551 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 43.172899999999998 -1 0 0 F -10045.613387230233 F 10407.141372334916 #
+ptlist-eye-attrib $-1 $-1 $-1 $1552 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 -1 0 0 F -10045.613387230233 F 10407.141372334916 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1556 #
+plane-surface $-1 0 -104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $2417 $2416 $1559 $2407 reversed $1557 $-1 #
+edge $3014 $2409 -43.922899999999998 $2412 43.922899999999998 $1559 $3015 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1561 #
+vertex $-1 $2407 $3016 #
+straight-curve $-1 0 -104.31902157184561 43.172899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+ptlist-eye-attrib $-1 $-1 $-1 $1563 #
+vertex $-1 $1563 $3017 #
+straight-curve $-1 0 -104.31902157184561 -44.672899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+coedge $-1 $2406 $1568 $1571 $2420 reversed $1557 $-1 #
+coedge $-1 $1568 $2406 $1575 $2422 reversed $1557 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1569 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -0.75 0 0 -1 I I #
+edge $3018 $2412 -115.1277 $1573 -0 $1571 $3019 forward 7 unknown #
+point $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 #
+edge $3020 $1579 0 $2409 115.1277 $1575 $3021 forward 7 unknown #
+point $-1 65.636292552341288 -219.44672157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1581 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 -0 -1 -0 F -10377.400437873848 F 9938.5069947301581 #
+ptlist-eye-attrib $-1 $-1 $-1 $1582 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 0 1 0 F -9938.5069947301581 F 10377.400437873848 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1586 #
+plane-surface $-1 0 104.31902157184561 43.172899999999998 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 $2441 $2440 $1589 $2431 reversed $1587 $-1 #
+edge $3022 $2433 -43.922899999999998 $2436 43.922899999999998 $1589 $3023 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1591 #
+vertex $-1 $2431 $3024 #
+straight-curve $-1 0 104.31902157184561 43.172899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+ptlist-eye-attrib $-1 $-1 $-1 $1593 #
+vertex $-1 $1593 $3025 #
+straight-curve $-1 0 104.31902157184561 -44.672899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+coedge $-1 $2430 $1598 $1601 $2444 forward $1587 $-1 #
+coedge $-1 $1598 $2430 $1605 $2446 forward $1587 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1599 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -0.75 0 0 -1 I I #
+edge $3026 $1603 0 $2436 115.1277 $2440 $3027 forward 7 unknown #
+point $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 #
+edge $3028 $2433 -115.1277 $1609 0 $2441 $3029 forward 7 unknown #
+point $-1 -65.636292552341288 219.44672157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1611 #
+straight-curve $-1 65.636292552341288 219.44672157184561 43.172899999999998 -0 1 -0 F -10377.400437873848 F 9938.5069947301581 #
+ptlist-eye-attrib $-1 $-1 $-1 $1612 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -44.672899999999998 0 -1 0 F -9938.5069947301581 F 10377.400437873848 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1616 #
+plane-surface $-1 0 104.31902157184561 -44.672899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $2465 $2464 $1619 $2455 forward $1617 $-1 #
+edge $3030 $2460 -104.31902157184561 $2457 104.31902157184561 $1619 $3031 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1621 #
+vertex $-1 $2455 $3032 #
+straight-curve $-1 0 104.31902157184561 -44.672899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+ptlist-eye-attrib $-1 $-1 $-1 $1623 #
+vertex $-1 $1623 $3033 #
+straight-curve $-1 0 -104.31902157184561 -44.672899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+coedge $-1 $2454 $1628 $1631 $2468 reversed $1617 $-1 #
+coedge $-1 $1628 $2454 $1635 $2470 forward $1617 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1629 #
+straight-curve $-1 -65.636292552341288 0 -159.8006 0 1 0 I I #
+edge $3034 $2460 -115.1277 $1633 -0 $1631 $3035 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 -159.8006 #
+edge $3036 $2457 -115.1277 $1639 -0 $2465 $3037 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1641 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -159.8006 -0 -0 -1 F -10406.300752413534 F 10086.699552413533 #
+ptlist-eye-attrib $-1 $-1 $-1 $1642 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -159.8006 0 0 1 F -10086.699552413533 F 10406.300752413534 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1646 #
+plane-surface $-1 0 -104.31902157184561 43.172899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2489 $2488 $1649 $2479 forward $1647 $-1 #
+edge $3038 $2484 -104.31902157184561 $2481 104.31902157184561 $1649 $3039 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1651 #
+vertex $-1 $2479 $3040 #
+straight-curve $-1 0 -104.31902157184561 43.172899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+ptlist-eye-attrib $-1 $-1 $-1 $1653 #
+vertex $-1 $1653 $3041 #
+straight-curve $-1 0 104.31902157184561 43.172899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+coedge $-1 $2478 $1658 $1661 $2492 forward $1647 $-1 #
+coedge $-1 $1658 $2478 $1665 $2494 reversed $1647 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1659 #
+straight-curve $-1 -65.636292552341288 0 158.3006 0 -1 0 I I #
+edge $3042 $1663 0 $2484 115.1277 $2488 $3043 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 158.3006 #
+edge $3044 $1669 0 $2481 115.1277 $1665 $3045 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1671 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 158.3006 -0 -0 1 F -10404.800752413534 F 10088.199552413533 #
+ptlist-eye-attrib $-1 $-1 $-1 $1672 #
+straight-curve $-1 65.636292552341288 104.31902157184561 158.3006 0 0 -1 F -10088.199552413533 F 10404.800752413534 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1676 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $2513 $2512 $1679 $2503 reversed $1677 $-1 #
+edge $3046 $2505 -43.922899999999998 $2508 43.922899999999998 $1679 $3047 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1681 #
+vertex $-1 $2503 $3048 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1683 #
+vertex $-1 $1683 $3049 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+point $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 #
+point $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 #
+coedge $-1 $2502 $1688 $1691 $2516 reversed $1677 $-1 #
+coedge $-1 $1688 $2502 $1695 $2518 reversed $1677 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1689 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -0.75 0 0 -1 I I #
+edge $3050 $2508 -115.1277 $1693 -0 $1691 $3051 forward 7 unknown #
+point $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 #
+edge $3052 $1699 0 $2505 115.1277 $1695 $3053 forward 7 unknown #
+point $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1701 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 43.172899999999998 -0 -1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $1702 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -44.672899999999998 0 1 0 F -9925.3678915532091 F 10364.261334696899 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1706 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 -44.672899999999998 0 -0 -1 -1 0 -0 forward_v I I I I #
+coedge $-1 $2537 $2536 $1709 $2527 forward $1707 $-1 #
+edge $3054 $2532 -43.922899999999998 $2529 43.922899999999998 $1709 $3055 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1711 #
+vertex $-1 $2527 $3056 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+ptlist-eye-attrib $-1 $-1 $-1 $1713 #
+vertex $-1 $1713 $3057 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+point $-1 -180.76399255234128 104.31902157184561 43.172899999999998 #
+point $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 #
+coedge $-1 $2526 $1718 $1721 $2540 reversed $1707 $-1 #
+coedge $-1 $1718 $2526 $1725 $2542 reversed $1707 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1719 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -0.75 0 0 -1 I I #
+edge $3058 $2532 -115.1277 $1723 0 $1721 $3059 forward 7 unknown #
+point $-1 -65.636292552341288 219.44672157184561 43.172899999999998 #
+edge $3060 $1729 0 $2529 115.1277 $1725 $3061 forward 7 unknown #
+point $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1731 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -44.672899999999998 -0 1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $1732 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 43.172899999999998 0 -1 0 F -9925.3678915532091 F 10364.261334696899 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1736 #
+plane-surface $-1 -123.20014255234128 -104.31902157184561 -44.672899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2561 $2560 $1739 $2551 reversed $1737 $-1 #
+edge $3062 $2553 -104.31902157184561 $2556 104.31902157184561 $1739 $3063 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1741 #
+vertex $-1 $2551 $3064 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+ptlist-eye-attrib $-1 $-1 $-1 $1743 #
+vertex $-1 $1743 $3065 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+point $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 #
+point $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 #
+coedge $-1 $2550 $1748 $1751 $2564 reversed $1737 $-1 #
+coedge $-1 $1748 $2550 $1755 $2566 reversed $1737 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1749 #
+straight-curve $-1 -65.636292552341288 0 -159.8006 0 1 0 I I #
+edge $3066 $2556 -115.1277 $1753 -0 $1751 $3067 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 -159.8006 #
+edge $3068 $1759 0 $2553 115.1277 $1755 $3069 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1761 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -159.8006 -0 -0 -1 F -10398.094999495053 F 10078.493799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $1762 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -159.8006 0 0 1 F -10078.493799495052 F 10398.094999495053 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1766 #
+plane-surface $-1 -123.20014255234128 104.31902157184561 43.172899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $2585 $2584 $1769 $2575 reversed $1767 $-1 #
+edge $3070 $2577 -104.31902157184561 $2580 104.31902157184561 $1769 $3071 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1771 #
+vertex $-1 $2575 $3072 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1773 #
+vertex $-1 $1773 $3073 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+point $-1 -180.76399255234128 104.31902157184561 43.172899999999998 #
+point $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 #
+coedge $-1 $2574 $1778 $1781 $2588 reversed $1767 $-1 #
+coedge $-1 $1778 $2574 $1785 $2590 reversed $1767 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1779 #
+straight-curve $-1 -65.636292552341288 0 158.3006 0 -1 0 I I #
+edge $3074 $2580 -115.1277 $1783 0 $1781 $3075 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 158.3006 #
+edge $3076 $1789 0 $2577 115.1277 $1785 $3077 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1791 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 158.3006 -0 -0 1 F -10396.594999495053 F 10079.993799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $1792 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 158.3006 0 0 -1 F -10079.993799495052 F 10396.594999495053 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1796 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 -44.672899999999998 -0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 $2609 $2608 $1799 $2599 forward $1797 $-1 #
+edge $3078 $2604 -43.922899999999998 $2601 43.922899999999998 $1799 $3079 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1801 #
+vertex $-1 $2599 $3080 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+ptlist-eye-attrib $-1 $-1 $-1 $1803 #
+vertex $-1 $1803 $3081 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 43.172899999999998 -1 0 0 F 0 F 115.12769999999999 #
+point $-1 180.76399255234128 -104.31902157184561 43.172899999999998 #
+point $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 #
+coedge $-1 $2598 $1808 $1811 $2612 reversed $1797 $-1 #
+coedge $-1 $1808 $2598 $1815 $2614 reversed $1797 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1809 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -0.75 0 0 -1 I I #
+edge $3082 $2604 -115.1277 $1813 -0 $1811 $3083 forward 7 unknown #
+point $-1 65.636292552341288 -219.44672157184561 43.172899999999998 #
+edge $3084 $1819 0 $2601 115.1277 $1815 $3085 forward 7 unknown #
+point $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1821 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -44.672899999999998 -0 -1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $1822 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 43.172899999999998 0 1 0 F -9925.3678915532091 F 10364.261334696899 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1826 #
+plane-surface $-1 123.20014255234128 104.31902157184561 43.172899999999998 -0 -0 1 1 -0 0 forward_v I I I I #
+coedge $-1 $2633 $2632 $1829 $2623 reversed $1827 $-1 #
+edge $3086 $2625 -43.922899999999998 $2628 43.922899999999998 $1829 $3087 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1831 #
+vertex $-1 $2623 $3088 #
+straight-curve $-1 180.76399255234128 104.31902157184561 43.172899999999998 1 -0 -0 F -115.12769999999999 F 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1833 #
+vertex $-1 $1833 $3089 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+point $-1 180.76399255234128 104.31902157184561 43.172899999999998 #
+point $-1 180.76399255234128 104.31902157184561 -44.672899999999998 #
+coedge $-1 $2622 $1838 $1841 $2636 reversed $1827 $-1 #
+coedge $-1 $1838 $2622 $1845 $2638 reversed $1827 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1839 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -0.75 0 0 -1 I I #
+edge $3090 $2628 -115.1277 $1843 0 $1841 $3091 forward 7 unknown #
+point $-1 65.636292552341288 219.44672157184561 -44.672899999999998 #
+edge $3092 $1849 0 $2625 115.1277 $1845 $3093 forward 7 unknown #
+point $-1 65.636292552341288 219.44672157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $1851 #
+straight-curve $-1 180.76399255234128 219.44672157184561 43.172899999999998 -0 1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $1852 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -44.672899999999998 0 -1 0 F -9925.3678915532091 F 10364.261334696899 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1856 #
+plane-surface $-1 123.20014255234128 104.31902157184561 -44.672899999999998 -0 1 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $2657 $2656 $1859 $2647 reversed $1857 $-1 #
+edge $3094 $2649 -104.31902157184561 $2652 104.31902157184561 $1859 $3095 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1861 #
+vertex $-1 $2647 $3096 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+ptlist-eye-attrib $-1 $-1 $-1 $1863 #
+vertex $-1 $1863 $3097 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+point $-1 180.76399255234128 104.31902157184561 -44.672899999999998 #
+point $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 #
+coedge $-1 $2646 $1868 $1871 $2660 reversed $1857 $-1 #
+coedge $-1 $1868 $2646 $1875 $2662 reversed $1857 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1869 #
+straight-curve $-1 65.636292552341288 0 -159.8006 0 -1 0 I I #
+edge $3098 $2652 -115.1277 $1873 -0 $1871 $3099 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 -159.8006 #
+edge $3100 $1879 0 $2649 115.1277 $1875 $3101 forward 7 unknown #
+point $-1 65.636292552341288 104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1881 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -159.8006 -0 -0 -1 F -10398.094999495053 F 10078.493799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $1882 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -159.8006 0 0 1 F -10078.493799495052 F 10398.094999495053 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1886 #
+plane-surface $-1 123.20014255234128 -104.31902157184561 43.172899999999998 -0 -1 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2681 $2680 $1889 $2671 reversed $1887 $-1 #
+edge $3102 $2673 -104.31902157184561 $2676 104.31902157184561 $1889 $3103 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1891 #
+vertex $-1 $2671 $3104 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 43.172899999999998 -1 0 0 F 0 F 115.12769999999999 #
+ptlist-eye-attrib $-1 $-1 $-1 $1893 #
+vertex $-1 $1893 $3105 #
+straight-curve $-1 180.76399255234128 104.31902157184561 43.172899999999998 1 -0 -0 F -115.12769999999999 F 0 #
+point $-1 180.76399255234128 -104.31902157184561 43.172899999999998 #
+point $-1 180.76399255234128 104.31902157184561 43.172899999999998 #
+coedge $-1 $2670 $1898 $1901 $2684 reversed $1887 $-1 #
+coedge $-1 $1898 $2670 $1905 $2686 reversed $1887 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1899 #
+straight-curve $-1 65.636292552341288 0 158.3006 0 1 0 I I #
+edge $3106 $2676 -115.1277 $1903 0 $1901 $3107 forward 7 unknown #
+point $-1 65.636292552341288 104.31902157184561 158.3006 #
+edge $3108 $1909 0 $2673 115.1277 $1905 $3109 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1911 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 158.3006 -0 -0 1 F -10396.594999495053 F 10079.993799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $1912 #
+straight-curve $-1 180.76399255234128 104.31902157184561 158.3006 0 0 -1 F -10079.993799495052 F 10396.594999495053 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1916 #
+plane-surface $-1 65.636292552341288 -161.88287157184561 -44.672899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2705 $2704 $1919 $2695 reversed $1917 $-1 #
+edge $3110 $2697 -65.636292552341288 $2700 65.636292552341288 $1919 $3111 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1921 #
+vertex $-1 $2695 $3112 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 -0 -1 -0 F -115.1277 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1923 #
+vertex $-1 $1923 $3113 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 0 1 0 F 0 F 115.1277 #
+point $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 #
+coedge $-1 $2694 $1928 $1931 $2708 reversed $1917 $-1 #
+coedge $-1 $1928 $2694 $1935 $2710 reversed $1917 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1929 #
+straight-curve $-1 0 -104.31902157184561 -159.8006 -1 0 0 I I #
+edge $3114 $2700 -115.1277 $1933 -0 $1931 $3115 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 -159.8006 #
+edge $3116 $1939 0 $2697 115.1277 $1935 $3117 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1941 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -159.8006 -0 -0 -1 F -10334.405523345724 F 10014.804323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $1942 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -159.8006 0 0 1 F -10014.804323345723 F 10334.405523345724 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1946 #
+plane-surface $-1 -65.636292552341288 -161.88287157184561 43.172899999999998 -1 0 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $2729 $2728 $1949 $2719 reversed $1947 $-1 #
+edge $3118 $2721 -65.636292552341288 $2724 65.636292552341288 $1949 $3119 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1951 #
+vertex $-1 $2719 $3120 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 -0 -1 -0 F -115.1277 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $1953 #
+vertex $-1 $1953 $3121 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 43.172899999999998 0 1 0 F 0 F 115.1277 #
+point $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 #
+point $-1 65.636292552341288 -219.44672157184561 43.172899999999998 #
+coedge $-1 $2718 $1958 $1961 $2732 reversed $1947 $-1 #
+coedge $-1 $1958 $2718 $1965 $2734 reversed $1947 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1959 #
+straight-curve $-1 0 -104.31902157184561 158.3006 1 0 0 I I #
+edge $3122 $2724 -115.1277 $1963 0 $1961 $3123 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 158.3006 #
+edge $3124 $1969 0 $2721 115.1277 $1965 $3125 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $1971 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 158.3006 -0 -0 1 F -10332.905523345724 F 10016.304323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $1972 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 158.3006 0 0 -1 F -10016.304323345723 F 10332.905523345724 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $1976 #
+plane-surface $-1 -65.636292552341288 161.88287157184561 -44.672899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $2753 $2752 $1979 $2743 reversed $1977 $-1 #
+edge $3126 $2745 -65.636292552341288 $2748 65.636292552341288 $1979 $3127 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $1981 #
+vertex $-1 $2743 $3128 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 0 -1 0 F 0 F 115.1277 #
+ptlist-eye-attrib $-1 $-1 $-1 $1983 #
+vertex $-1 $1983 $3129 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -44.672899999999998 0 -1 0 F 0 F 115.1277 #
+point $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 #
+point $-1 65.636292552341288 219.44672157184561 -44.672899999999998 #
+coedge $-1 $2742 $1988 $1991 $2756 reversed $1977 $-1 #
+coedge $-1 $1988 $2742 $1995 $2758 reversed $1977 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $1989 #
+straight-curve $-1 0 104.31902157184561 -159.8006 1 0 0 I I #
+edge $3130 $2748 -115.1277 $1993 -0 $1991 $3131 forward 7 unknown #
+point $-1 65.636292552341288 104.31902157184561 -159.8006 #
+edge $3132 $1999 0 $2745 115.1277 $1995 $3133 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2001 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -159.8006 -0 -0 -1 F -10334.405523345724 F 10014.804323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $2002 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -159.8006 0 0 1 F -10014.804323345723 F 10334.405523345724 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2006 #
+plane-surface $-1 65.636292552341288 161.88287157184561 43.172899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2777 $2776 $2009 $2767 reversed $2007 $-1 #
+edge $3134 $2769 -65.636292552341288 $2772 65.636292552341288 $2009 $3135 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2011 #
+vertex $-1 $2767 $3136 #
+straight-curve $-1 65.636292552341288 219.44672157184561 43.172899999999998 -0 1 -0 F -115.1277 F 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2013 #
+vertex $-1 $2013 $3137 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 43.172899999999998 -0 1 -0 F -115.1277 F 0 #
+point $-1 65.636292552341288 219.44672157184561 43.172899999999998 #
+point $-1 -65.636292552341288 219.44672157184561 43.172899999999998 #
+coedge $-1 $2766 $2018 $2021 $2780 reversed $2007 $-1 #
+coedge $-1 $2018 $2766 $2025 $2782 reversed $2007 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2019 #
+straight-curve $-1 0 104.31902157184561 158.3006 -1 0 0 I I #
+edge $3138 $2772 -115.1277 $2023 0 $2021 $3139 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 158.3006 #
+edge $3140 $2029 0 $2769 115.1277 $2025 $3141 forward 7 unknown #
+point $-1 65.636292552341288 104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2031 #
+straight-curve $-1 65.636292552341288 219.44672157184561 158.3006 -0 -0 1 F -10332.905523345724 F 10016.304323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $2032 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 158.3006 0 0 -1 F -10016.304323345723 F 10332.905523345724 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2036 #
+plane-surface $-1 -65.636292552341288 -161.88287157184561 -44.672899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2801 $2800 $2039 $2791 forward $2037 $-1 #
+edge $3142 $2796 0 $2793 115.12769999999999 $2039 $3143 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2041 #
+vertex $-1 $2791 $3144 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 -0 -1 -0 F -115.1277 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2043 #
+vertex $-1 $2043 $3145 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -44.672899999999998 0 1 0 F 0 F 115.1277 #
+point $-1 -180.76399255234128 -219.44672157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 #
+coedge $-1 $2790 $2048 $2051 $2804 reversed $2037 $-1 #
+coedge $-1 $2048 $2790 $2055 $2806 reversed $2037 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2049 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -159.8006 1 0 0 I I #
+edge $3146 $2796 -115.1277 $2053 -0 $2051 $3147 forward 7 unknown #
+point $-1 -180.76399255234128 -104.31902157184561 -159.8006 #
+edge $3148 $2059 0 $2793 115.1277 $2055 $3149 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2061 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2062 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2066 #
+plane-surface $-1 -180.76399255234128 -161.88287157184561 43.172899999999998 -1 0 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $2825 $2824 $2069 $2815 forward $2067 $-1 #
+edge $3150 $2820 -115.12769999999999 $2817 -0 $2069 $3151 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2071 #
+vertex $-1 $2815 $3152 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 43.172899999999998 -0 -1 -0 F -115.1277 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2073 #
+vertex $-1 $2073 $3153 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 0 1 0 F 0 F 115.1277 #
+point $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 #
+point $-1 -180.76399255234128 -219.44672157184561 43.172899999999998 #
+coedge $-1 $2814 $2078 $2081 $2828 reversed $2067 $-1 #
+coedge $-1 $2078 $2814 $2085 $2830 reversed $2067 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2079 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 158.3006 -1 -0 -0 I I #
+edge $3154 $2820 -115.1277 $2083 0 $2081 $3155 forward 7 unknown #
+point $-1 -65.636292552341288 -104.31902157184561 158.3006 #
+edge $3156 $2089 0 $2817 115.1277 $2085 $3157 forward 7 unknown #
+point $-1 -180.76399255234128 -104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2091 #
+straight-curve $-1 -180.76399255234128 -219.44672157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2092 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2096 #
+plane-surface $-1 -180.76399255234128 161.88287157184561 -44.672899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $2849 $2848 $2099 $2839 reversed $2097 $-1 #
+edge $3158 $2841 0 $2844 115.12769999999999 $2099 $3159 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2101 #
+vertex $-1 $2839 $3160 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -44.672899999999998 -0 1 -0 F -115.1277 F 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2103 #
+vertex $-1 $2103 $3161 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 0 -1 0 F 0 F 115.1277 #
+point $-1 -180.76399255234128 219.44672157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 #
+coedge $-1 $2838 $2108 $2111 $2852 reversed $2097 $-1 #
+coedge $-1 $2108 $2838 $2115 $2854 reversed $2097 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2109 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -159.8006 1 0 0 I I #
+edge $3162 $2844 -115.1277 $2113 -0 $2111 $3163 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 -159.8006 #
+edge $3164 $2119 0 $2841 115.1277 $2115 $3165 forward 7 unknown #
+point $-1 -180.76399255234128 104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2121 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2122 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2126 #
+plane-surface $-1 -65.636292552341288 161.88287157184561 43.172899999999998 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $2873 $2872 $2129 $2863 reversed $2127 $-1 #
+edge $3166 $2865 -115.12769999999999 $2868 -0 $2129 $3167 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2131 #
+vertex $-1 $2863 $3168 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 43.172899999999998 -0 1 -0 F -115.1277 F 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2133 #
+vertex $-1 $2133 $3169 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 43.172899999999998 0 -1 0 F 0 F 115.1277 #
+point $-1 -65.636292552341288 219.44672157184561 43.172899999999998 #
+point $-1 -180.76399255234128 219.44672157184561 43.172899999999998 #
+coedge $-1 $2862 $2138 $2141 $2876 reversed $2127 $-1 #
+coedge $-1 $2138 $2862 $2145 $2878 reversed $2127 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2139 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 158.3006 -1 -0 -0 I I #
+edge $3170 $2868 -115.1277 $2143 0 $2141 $3171 forward 7 unknown #
+point $-1 -180.76399255234128 104.31902157184561 158.3006 #
+edge $3172 $2149 0 $2865 115.1277 $2145 $3173 forward 7 unknown #
+point $-1 -65.636292552341288 104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2151 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2152 #
+straight-curve $-1 -180.76399255234128 219.44672157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2156 #
+plane-surface $-1 180.76399255234128 -161.88287157184561 -44.672899999999998 1 -0 -0 0 0 -1 forward_v I I I I #
+coedge $-1 $2897 $2896 $2159 $2887 reversed $2157 $-1 #
+edge $3174 $2889 0 $2892 115.12769999999999 $2159 $3175 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2161 #
+vertex $-1 $2887 $3176 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -44.672899999999998 -0 -1 -0 F -115.1277 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2163 #
+vertex $-1 $2163 $3177 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 0 1 0 F 0 F 115.1277 #
+point $-1 180.76399255234128 -219.44672157184561 -44.672899999999998 #
+point $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 #
+coedge $-1 $2886 $2168 $2171 $2900 reversed $2157 $-1 #
+coedge $-1 $2168 $2886 $2175 $2902 reversed $2157 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2169 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -159.8006 -1 0 0 I I #
+edge $3178 $2892 -115.1277 $2173 -0 $2171 $3179 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 -159.8006 #
+edge $3180 $2179 0 $2889 115.1277 $2175 $3181 forward 7 unknown #
+point $-1 180.76399255234128 -104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2181 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2182 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2186 #
+plane-surface $-1 65.636292552341288 -161.88287157184561 43.172899999999998 -1 0 -0 -0 0 1 forward_v I I I I #
+coedge $-1 $2921 $2920 $2189 $2911 forward $2187 $-1 #
+edge $3182 $2916 0 $2913 115.12769999999999 $2189 $3183 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2191 #
+vertex $-1 $2911 $3184 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 43.172899999999998 -0 -1 -0 F -115.1277 F -0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2193 #
+vertex $-1 $2193 $3185 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 43.172899999999998 0 1 0 F 0 F 115.1277 #
+point $-1 180.76399255234128 -219.44672157184561 43.172899999999998 #
+point $-1 65.636292552341288 -219.44672157184561 43.172899999999998 #
+coedge $-1 $2910 $2198 $2201 $2924 reversed $2187 $-1 #
+coedge $-1 $2198 $2910 $2205 $2926 reversed $2187 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2199 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 158.3006 -1 0 0 I I #
+edge $3186 $2916 -115.1277 $2203 0 $2201 $3187 forward 7 unknown #
+point $-1 180.76399255234128 -104.31902157184561 158.3006 #
+edge $3188 $2209 0 $2913 115.1277 $2205 $3189 forward 7 unknown #
+point $-1 65.636292552341288 -104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2211 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2212 #
+straight-curve $-1 180.76399255234128 -219.44672157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2216 #
+plane-surface $-1 65.636292552341288 161.88287157184561 -44.672899999999998 -1 -0 -0 0 0 1 forward_v I I I I #
+coedge $-1 $2945 $2944 $2219 $2935 forward $2217 $-1 #
+edge $3190 $2940 0 $2937 115.12769999999999 $2219 $3191 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2221 #
+vertex $-1 $2935 $3192 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -44.672899999999998 -0 1 -0 F -115.1277 F 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2223 #
+vertex $-1 $2223 $3193 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -44.672899999999998 0 -1 0 F 0 F 115.1277 #
+point $-1 180.76399255234128 219.44672157184561 -44.672899999999998 #
+point $-1 65.636292552341288 219.44672157184561 -44.672899999999998 #
+coedge $-1 $2934 $2228 $2231 $2948 reversed $2217 $-1 #
+coedge $-1 $2228 $2934 $2235 $2950 reversed $2217 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2229 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -159.8006 -1 0 0 I I #
+edge $3194 $2940 -115.1277 $2233 -0 $2231 $3195 forward 7 unknown #
+point $-1 180.76399255234128 104.31902157184561 -159.8006 #
+edge $3196 $2239 0 $2937 115.1277 $2235 $3197 forward 7 unknown #
+point $-1 65.636292552341288 104.31902157184561 -159.8006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2241 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2242 #
+straight-curve $-1 180.76399255234128 219.44672157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+fctd_mark-eye-attrib $-1 $-1 $-1 $2246 #
+plane-surface $-1 180.76399255234128 161.88287157184561 43.172899999999998 1 0 0 0 0 -1 forward_v I I I I #
+coedge $-1 $2969 $2968 $2249 $2959 forward $2247 $-1 #
+edge $3198 $2964 -115.12769999999999 $2961 0 $2249 $3199 forward 7 unknown #
+ptlist-eye-attrib $-1 $-1 $-1 $2251 #
+vertex $-1 $2959 $3200 #
+straight-curve $-1 180.76399255234128 219.44672157184561 43.172899999999998 -0 1 -0 F -115.1277 F 0 #
+ptlist-eye-attrib $-1 $-1 $-1 $2253 #
+vertex $-1 $2253 $3201 #
+straight-curve $-1 65.636292552341288 219.44672157184561 43.172899999999998 0 -1 0 F 0 F 115.1277 #
+point $-1 65.636292552341288 219.44672157184561 43.172899999999998 #
+point $-1 180.76399255234128 219.44672157184561 43.172899999999998 #
+coedge $-1 $2958 $2258 $2261 $2972 reversed $2247 $-1 #
+coedge $-1 $2258 $2958 $2265 $2974 reversed $2247 $-1 #
+ptlist-eye-attrib $-1 $-1 $-1 $2259 #
+straight-curve $-1 180.76399255234128 104.31902157184561 158.3006 1 0 0 I I #
+edge $3202 $2964 -115.1277 $2263 0 $2261 $3203 forward 7 unknown #
+point $-1 65.636292552341288 104.31902157184561 158.3006 #
+edge $3204 $2269 0 $2961 115.1277 $2265 $3205 forward 7 unknown #
+point $-1 180.76399255234128 104.31902157184561 158.3006 #
+ptlist-eye-attrib $-1 $-1 $-1 $2271 #
+straight-curve $-1 180.76399255234128 219.44672157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2272 #
+straight-curve $-1 65.636292552341288 219.44672157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2278 #
+straight-curve $-1 -22.463392552341301 61.146121571845605 -0.75 0 0 -1 I I #
+point $-1 -22.463392552341301 -61.146121571845605 -1.5 #
+ptlist-eye-attrib $-1 $-1 $-1 $2282 #
+straight-curve $-1 -22.463392552341301 0 -1.5 0 1 0 I I #
+point $-1 -22.463392552341301 61.146121571845605 -1.5 #
+ptlist-eye-attrib $-1 $-1 $-1 $2313 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -0.75 0 0 -1 I I #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2317 #
+straight-curve $-1 -65.636292552341288 0 -44.672899999999998 0 1 0 I I #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2336 #
+straight-curve $-1 -57.001692552341304 95.684421571845604 -0.75 0 0 -1 I I #
+point $-1 -57.001692552341304 -95.684421571845604 -36.0383 #
+ptlist-eye-attrib $-1 $-1 $-1 $2340 #
+straight-curve $-1 -57.001692552341304 0 -36.0383 0 1 0 I I #
+point $-1 -57.001692552341304 95.684421571845604 -36.0383 #
+ptlist-eye-attrib $-1 $-1 $-1 $2359 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2372 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 1 0 0 F -10045.613387230233 F 10407.141372334916 #
+ptlist-eye-attrib $-1 $-1 $-1 $2374 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 -1 -0 -0 F -10407.141372334916 F 10045.613387230233 #
+ptlist-eye-attrib $-1 $-1 $-1 $2383 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2396 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -44.672899999999998 -1 0 0 F -10045.613387230233 F 10407.141372334916 #
+ptlist-eye-attrib $-1 $-1 $-1 $2398 #
+straight-curve $-1 180.76399255234128 104.31902157184561 43.172899999999998 1 -0 -0 F -10407.141372334916 F 10045.613387230233 #
+ptlist-eye-attrib $-1 $-1 $-1 $2407 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2420 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 -0 -1 -0 F -10377.400437873848 F 9938.5069947301581 #
+ptlist-eye-attrib $-1 $-1 $-1 $2422 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 43.172899999999998 0 1 0 F -9938.5069947301581 F 10377.400437873848 #
+ptlist-eye-attrib $-1 $-1 $-1 $2431 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2444 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 0 -1 0 F -9938.5069947301581 F 10377.400437873848 #
+ptlist-eye-attrib $-1 $-1 $-1 $2446 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 43.172899999999998 -0 1 -0 F -10377.400437873848 F 9938.5069947301581 #
+ptlist-eye-attrib $-1 $-1 $-1 $2455 #
+straight-curve $-1 -65.636292552341288 0 -44.672899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2468 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -159.8006 -0 -0 -1 F -10406.300752413534 F 10086.699552413533 #
+ptlist-eye-attrib $-1 $-1 $-1 $2470 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -159.8006 -0 -0 -1 F -10406.300752413534 F 10086.699552413533 #
+ptlist-eye-attrib $-1 $-1 $-1 $2479 #
+straight-curve $-1 -65.636292552341288 0 43.172899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2492 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 158.3006 0 0 -1 F -10088.199552413533 F 10404.800752413534 #
+ptlist-eye-attrib $-1 $-1 $-1 $2494 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 158.3006 0 0 -1 F -10088.199552413533 F 10404.800752413534 #
+ptlist-eye-attrib $-1 $-1 $-1 $2503 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2516 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 -44.672899999999998 -0 -1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $2518 #
+straight-curve $-1 -65.636292552341288 -219.44672157184561 43.172899999999998 0 1 0 F -9925.3678915532091 F 10364.261334696899 #
+ptlist-eye-attrib $-1 $-1 $-1 $2527 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2540 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 43.172899999999998 -0 1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $2542 #
+straight-curve $-1 -65.636292552341288 219.44672157184561 -44.672899999999998 0 -1 0 F -9925.3678915532091 F 10364.261334696899 #
+ptlist-eye-attrib $-1 $-1 $-1 $2551 #
+straight-curve $-1 -65.636292552341288 0 -44.672899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2564 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -159.8006 -0 -0 -1 F -10398.094999495053 F 10078.493799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $2566 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -159.8006 0 0 1 F -10078.493799495052 F 10398.094999495053 #
+ptlist-eye-attrib $-1 $-1 $-1 $2575 #
+straight-curve $-1 -65.636292552341288 0 43.172899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2588 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 158.3006 -0 -0 1 F -10396.594999495053 F 10079.993799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $2590 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 158.3006 0 0 -1 F -10079.993799495052 F 10396.594999495053 #
+ptlist-eye-attrib $-1 $-1 $-1 $2599 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2612 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 43.172899999999998 -0 -1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $2614 #
+straight-curve $-1 65.636292552341288 -219.44672157184561 -44.672899999999998 0 1 0 F -9925.3678915532091 F 10364.261334696899 #
+ptlist-eye-attrib $-1 $-1 $-1 $2623 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -0.75 0 0 -1 F -43.922899999999998 F 43.922899999999998 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2636 #
+straight-curve $-1 65.636292552341288 219.44672157184561 -44.672899999999998 -0 1 -0 F -10364.261334696899 F 9925.3678915532091 #
+ptlist-eye-attrib $-1 $-1 $-1 $2638 #
+straight-curve $-1 65.636292552341288 219.44672157184561 43.172899999999998 0 -1 0 F -9925.3678915532091 F 10364.261334696899 #
+ptlist-eye-attrib $-1 $-1 $-1 $2647 #
+straight-curve $-1 65.636292552341288 0 -44.672899999999998 0 -1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2660 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -159.8006 -0 -0 -1 F -10398.094999495053 F 10078.493799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $2662 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -159.8006 0 0 1 F -10078.493799495052 F 10398.094999495053 #
+ptlist-eye-attrib $-1 $-1 $-1 $2671 #
+straight-curve $-1 65.636292552341288 0 43.172899999999998 0 1 0 F -104.31902157184561 F 104.31902157184561 #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2684 #
+straight-curve $-1 65.636292552341288 104.31902157184561 158.3006 -0 -0 1 F -10396.594999495053 F 10079.993799495052 #
+ptlist-eye-attrib $-1 $-1 $-1 $2686 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 158.3006 0 0 -1 F -10079.993799495052 F 10396.594999495053 #
+ptlist-eye-attrib $-1 $-1 $-1 $2695 #
+straight-curve $-1 0 -104.31902157184561 -44.672899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2708 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -159.8006 -0 -0 -1 F -10334.405523345724 F 10014.804323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $2710 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -159.8006 0 0 1 F -10014.804323345723 F 10334.405523345724 #
+ptlist-eye-attrib $-1 $-1 $-1 $2719 #
+straight-curve $-1 0 -104.31902157184561 43.172899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2732 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 158.3006 -0 -0 1 F -10332.905523345724 F 10016.304323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $2734 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 158.3006 0 0 -1 F -10016.304323345723 F 10332.905523345724 #
+ptlist-eye-attrib $-1 $-1 $-1 $2743 #
+straight-curve $-1 0 104.31902157184561 -44.672899999999998 1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2756 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -159.8006 -0 -0 -1 F -10334.405523345724 F 10014.804323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $2758 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -159.8006 0 0 1 F -10014.804323345723 F 10334.405523345724 #
+ptlist-eye-attrib $-1 $-1 $-1 $2767 #
+straight-curve $-1 0 104.31902157184561 43.172899999999998 -1 0 0 F -65.636292552341288 F 65.636292552341288 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2780 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 158.3006 -0 -0 1 F -10332.905523345724 F 10016.304323345723 #
+ptlist-eye-attrib $-1 $-1 $-1 $2782 #
+straight-curve $-1 65.636292552341288 104.31902157184561 158.3006 0 0 -1 F -10016.304323345723 F 10332.905523345724 #
+ptlist-eye-attrib $-1 $-1 $-1 $2791 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+point $-1 -65.636292552341288 -104.31902157184561 -44.672899999999998 #
+point $-1 -180.76399255234128 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2804 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2806 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2815 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+point $-1 -180.76399255234128 -104.31902157184561 43.172899999999998 #
+point $-1 -65.636292552341288 -104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2828 #
+straight-curve $-1 -65.636292552341288 -104.31902157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2830 #
+straight-curve $-1 -180.76399255234128 -104.31902157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2839 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 1 0 0 F 0 F 115.12769999999999 #
+point $-1 -180.76399255234128 104.31902157184561 -44.672899999999998 #
+point $-1 -65.636292552341288 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2852 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2854 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2863 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 43.172899999999998 -1 -0 -0 F -115.12769999999999 F -0 #
+point $-1 -65.636292552341288 104.31902157184561 43.172899999999998 #
+point $-1 -180.76399255234128 104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2876 #
+straight-curve $-1 -180.76399255234128 104.31902157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2878 #
+straight-curve $-1 -65.636292552341288 104.31902157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2887 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+point $-1 180.76399255234128 -104.31902157184561 -44.672899999999998 #
+point $-1 65.636292552341288 -104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2900 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2902 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2911 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 43.172899999999998 -1 0 0 F 0 F 115.12769999999999 #
+point $-1 65.636292552341288 -104.31902157184561 43.172899999999998 #
+point $-1 180.76399255234128 -104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2924 #
+straight-curve $-1 180.76399255234128 -104.31902157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2926 #
+straight-curve $-1 65.636292552341288 -104.31902157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2935 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -44.672899999999998 -1 0 0 F 0 F 115.12769999999999 #
+point $-1 65.636292552341288 104.31902157184561 -44.672899999999998 #
+point $-1 180.76399255234128 104.31902157184561 -44.672899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2948 #
+straight-curve $-1 180.76399255234128 104.31902157184561 -159.8006 -0 -0 -1 F -10322.615755744822 F 10003.014555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2950 #
+straight-curve $-1 65.636292552341288 104.31902157184561 -159.8006 0 0 1 F -10003.014555744821 F 10322.615755744822 #
+ptlist-eye-attrib $-1 $-1 $-1 $2959 #
+straight-curve $-1 180.76399255234128 104.31902157184561 43.172899999999998 1 -0 -0 F -115.12769999999999 F 0 #
+point $-1 180.76399255234128 104.31902157184561 43.172899999999998 #
+point $-1 65.636292552341288 104.31902157184561 43.172899999999998 #
+ptlist-eye-attrib $-1 $-1 $-1 $2972 #
+straight-curve $-1 65.636292552341288 104.31902157184561 158.3006 -0 -0 1 F -10321.115755744822 F 10004.514555744821 #
+ptlist-eye-attrib $-1 $-1 $-1 $2974 #
+straight-curve $-1 180.76399255234128 104.31902157184561 158.3006 0 0 -1 F -10004.514555744821 F 10321.115755744822 #
+End-of-ACIS-data 
