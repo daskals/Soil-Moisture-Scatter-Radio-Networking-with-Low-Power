@@ -2,6 +2,7 @@
 Hardware and Software files of  IEEE publication: Soil Moisture Scatter Radio Networking with Low Power
 
 
+
 In this repo, a low-cost (6 Euro per sensor), low-power (in the order of 200
 µW per sensor), with high communication range (in the order
 of 250 meter), scatter radio sensor network is presented, for soil
@@ -45,7 +46,6 @@ If you use our algorithm, please cite [[1]](https://ieeexplore.ieee.org/document
   pages={2338--2346},
   year={2016},
   publisher={IEEE}
-}
 }
  
 ```
